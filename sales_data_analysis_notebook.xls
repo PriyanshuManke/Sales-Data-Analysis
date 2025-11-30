@@ -1,0 +1,1001 @@
+OrderID,OrderDate,Product,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region,CustomerID
+ORD10000,2023-04-13,Product 9,Office Supplies,Paper,536.1,1,0.0,48.55,West,CUST1321
+ORD10001,2024-03-11,Product 17,Office Supplies,Binders,126.86,4,0.0,25.43,East,CUST1806
+ORD10002,2023-09-28,Product 9,Office Supplies,Paper,488.32,2,0.0,107.49,East,CUST1240
+ORD10003,2023-04-17,Product 11,Office Supplies,Binders,234.22,1,0.0,22.04,West,CUST1017
+ORD10004,2023-03-13,Product 15,Office Supplies,Pens,275.04,2,0.05,50.73,West,CUST1767
+ORD10005,2024-12-01,Product 24,Technology,Computers,473.2,2,0.05,70.93,West,CUST1453
+ORD10006,2023-01-21,Product 6,Office Supplies,Binders,16.4,3,0.05,3.59,West,CUST1442
+ORD10007,2024-09-06,Product 23,Technology,Accessories,141.45,4,0.1,11.96,East,CUST1927
+ORD10008,2023-05-02,Product 3,Office Supplies,Paper,424.54,6,0.1,147.55,Central,CUST1276
+ORD10009,2024-04-11,Product 30,Furniture,Bookcases,540.89,2,0.05,144.12,South,CUST1423
+ORD10010,2023-08-03,Product 17,Furniture,Chairs,573.81,3,0.05,82.91,Central,CUST1475
+ORD10011,2023-11-27,Product 5,Office Supplies,Paper,391.53,4,0.0,114.27,East,CUST1026
+ORD10012,2024-04-03,Product 30,Office Supplies,Paper,280.79,4,0.15,70.51,West,CUST1513
+ORD10013,2023-03-29,Product 28,Office Supplies,Pens,255.88,4,0.0,55.6,South,CUST1864
+ORD10014,2024-01-08,Product 12,Technology,Phones,574.65,1,0.0,97.4,South,CUST1463
+ORD10015,2023-04-10,Product 18,Technology,Phones,609.47,4,0.1,155.45,Central,CUST1806
+ORD10016,2024-10-25,Product 14,Office Supplies,Paper,134.97,4,0.0,30.85,East,CUST1981
+ORD10017,2023-05-11,Product 21,Technology,Phones,430.0,3,0.0,73.85,East,CUST1823
+ORD10018,2024-10-23,Product 24,Office Supplies,Paper,467.07,5,0.05,57.84,East,CUST1362
+ORD10019,2023-11-05,Product 11,Office Supplies,Paper,505.31,3,0.05,80.08,South,CUST1382
+ORD10020,2023-12-10,Product 9,Technology,Computers,1264.14,2,0.1,231.57,Central,CUST1750
+ORD10021,2024-05-06,Product 2,Office Supplies,Paper,363.45,1,0.1,107.53,South,CUST1524
+ORD10022,2024-02-18,Product 12,Technology,Accessories,500.89,3,0.0,140.38,South,CUST1381
+ORD10023,2024-01-21,Product 3,Office Supplies,Paper,565.5,1,0.0,106.59,West,CUST1183
+ORD10024,2023-07-11,Product 3,Furniture,Chairs,513.83,4,0.05,97.25,Central,CUST1193
+ORD10025,2023-10-04,Product 1,Office Supplies,Pens,237.45,2,0.0,68.72,West,CUST1461
+ORD10026,2023-06-10,Product 8,Office Supplies,Pens,515.5,1,0.05,122.06,East,CUST1055
+ORD10027,2024-04-04,Product 22,Technology,Accessories,359.23,3,0.0,85.4,South,CUST1229
+ORD10028,2023-11-10,Product 28,Office Supplies,Binders,194.21,1,0.0,33.16,Central,CUST1488
+ORD10029,2023-01-22,Product 29,Furniture,Bookcases,199.51,2,0.05,41.17,East,CUST1027
+ORD10030,2023-09-10,Product 8,Technology,Computers,509.6,2,0.05,111.26,Central,CUST1831
+ORD10031,2024-07-14,Product 11,Technology,Phones,241.48,3,0.05,50.58,South,CUST1582
+ORD10032,2024-04-19,Product 9,Technology,Computers,409.58,2,0.0,111.15,Central,CUST1721
+ORD10033,2023-02-28,Product 5,Furniture,Tables,369.8,1,0.0,101.17,East,CUST1959
+ORD10034,2024-05-25,Product 14,Furniture,Chairs,349.9,2,0.0,54.47,West,CUST1183
+ORD10035,2024-11-12,Product 28,Technology,Accessories,518.88,1,0.0,95.99,South,CUST1424
+ORD10036,2024-04-20,Product 30,Technology,Phones,612.6,3,0.0,105.3,West,CUST1374
+ORD10037,2024-11-30,Product 3,Office Supplies,Pens,614.01,3,0.0,194.76,South,CUST1867
+ORD10038,2023-07-09,Product 21,Office Supplies,Binders,23.7,2,0.05,7.95,East,CUST1040
+ORD10039,2024-11-17,Product 5,Technology,Phones,495.54,3,0.0,92.94,South,CUST1483
+ORD10040,2024-07-16,Product 5,Office Supplies,Paper,502.1,4,0.05,103.59,West,CUST1259
+ORD10041,2024-07-20,Product 19,Office Supplies,Pens,227.92,2,0.15,60.58,South,CUST1440
+ORD10042,2023-09-01,Product 27,Office Supplies,Pens,113.66,3,0.0,19.38,East,CUST1925
+ORD10043,2024-05-19,Product 14,Office Supplies,Pens,704.88,4,0.0,197.75,South,CUST1855
+ORD10044,2023-05-11,Product 26,Technology,Accessories,300.48,3,0.0,65.67,West,CUST1083
+ORD10045,2024-04-29,Product 30,Furniture,Chairs,42.78,4,0.05,3.19,East,CUST1045
+ORD10046,2024-10-08,Product 4,Office Supplies,Pens,140.84,3,0.0,18.16,West,CUST1439
+ORD10047,2023-01-21,Product 25,Technology,Accessories,267.41,3,0.0,52.51,South,CUST1670
+ORD10048,2023-06-16,Product 13,Furniture,Tables,432.26,2,0.05,131.1,Central,CUST1855
+ORD10049,2023-10-01,Product 10,Office Supplies,Binders,348.62,7,0.0,54.92,West,CUST1518
+ORD10050,2024-01-23,Product 25,Furniture,Bookcases,299.04,3,0.05,53.61,South,CUST1985
+ORD10051,2024-08-23,Product 18,Office Supplies,Pens,434.03,3,0.05,100.9,Central,CUST1844
+ORD10052,2023-11-12,Product 8,Office Supplies,Paper,137.7,2,0.1,12.21,Central,CUST1437
+ORD10053,2023-01-14,Product 8,Furniture,Chairs,132.76,2,0.0,31.98,East,CUST1135
+ORD10054,2023-08-30,Product 7,Office Supplies,Pens,185.39,2,0.15,17.75,Central,CUST1182
+ORD10055,2023-12-12,Product 8,Technology,Accessories,91.4,3,0.1,21.74,West,CUST1708
+ORD10056,2024-07-18,Product 14,Furniture,Tables,79.8,6,0.0,13.04,West,CUST1171
+ORD10057,2023-12-06,Product 19,Office Supplies,Binders,507.29,3,0.0,78.15,Central,CUST1908
+ORD10058,2023-04-02,Product 29,Technology,Phones,280.54,2,0.0,67.08,South,CUST1860
+ORD10059,2024-01-02,Product 6,Furniture,Tables,234.19,2,0.1,62.54,West,CUST1787
+ORD10060,2024-03-30,Product 1,Office Supplies,Paper,207.64,3,0.1,49.15,West,CUST1589
+ORD10061,2024-03-03,Product 23,Furniture,Chairs,418.42,4,0.05,97.13,East,CUST1927
+ORD10062,2024-05-23,Product 15,Technology,Accessories,484.58,2,0.15,111.13,South,CUST1955
+ORD10063,2023-02-04,Product 1,Technology,Accessories,581.64,3,0.0,143.53,Central,CUST1689
+ORD10064,2023-07-25,Product 25,Technology,Computers,285.87,6,0.0,71.86,South,CUST1538
+ORD10065,2023-03-22,Product 17,Office Supplies,Pens,331.05,2,0.15,60.69,East,CUST1119
+ORD10066,2024-07-15,Product 1,Furniture,Tables,456.79,3,0.1,119.42,East,CUST1280
+ORD10067,2024-01-23,Product 15,Furniture,Chairs,557.77,5,0.0,91.54,South,CUST1307
+ORD10068,2023-01-02,Product 23,Technology,Phones,313.47,5,0.1,90.91,East,CUST1707
+ORD10069,2024-01-25,Product 2,Technology,Phones,79.94,4,0.2,17.97,East,CUST1276
+ORD10070,2024-07-19,Product 14,Technology,Phones,392.89,3,0.1,144.42,East,CUST1529
+ORD10071,2023-04-16,Product 21,Office Supplies,Paper,509.94,3,0.1,128.53,South,CUST1294
+ORD10072,2024-04-21,Product 8,Technology,Computers,689.67,2,0.1,193.62,East,CUST1782
+ORD10073,2024-12-03,Product 8,Technology,Accessories,432.83,2,0.0,47.94,Central,CUST1052
+ORD10074,2024-02-06,Product 19,Technology,Computers,320.39,2,0.1,89.61,Central,CUST1805
+ORD10075,2024-12-30,Product 7,Technology,Phones,391.31,4,0.0,118.31,West,CUST1431
+ORD10076,2024-07-09,Product 19,Office Supplies,Paper,229.24,5,0.15,71.58,Central,CUST1051
+ORD10077,2023-06-11,Product 6,Office Supplies,Paper,512.44,1,0.0,117.06,West,CUST1727
+ORD10078,2023-07-21,Product 6,Office Supplies,Paper,175.98,4,0.05,33.5,South,CUST1071
+ORD10079,2023-09-27,Product 3,Office Supplies,Binders,429.7,4,0.0,61.76,East,CUST1027
+ORD10080,2023-09-28,Product 7,Technology,Phones,452.38,3,0.0,67.92,Central,CUST1468
+ORD10081,2024-03-31,Product 19,Technology,Accessories,187.37,4,0.0,40.89,West,CUST1911
+ORD10082,2024-04-06,Product 8,Technology,Phones,96.33,6,0.2,5.38,South,CUST1763
+ORD10083,2024-12-27,Product 10,Office Supplies,Binders,308.99,4,0.2,47.36,West,CUST1885
+ORD10084,2023-09-09,Product 20,Technology,Computers,285.13,2,0.0,64.52,East,CUST1911
+ORD10085,2024-12-02,Product 15,Office Supplies,Paper,493.89,3,0.2,106.98,Central,CUST1546
+ORD10086,2023-10-23,Product 15,Office Supplies,Binders,613.38,1,0.1,91.32,South,CUST1400
+ORD10087,2024-12-25,Product 29,Technology,Computers,380.56,3,0.05,49.85,West,CUST1200
+ORD10088,2024-12-20,Product 1,Furniture,Chairs,119.85,4,0.0,17.27,South,CUST1760
+ORD10089,2023-12-04,Product 20,Office Supplies,Paper,662.77,5,0.15,132.56,West,CUST1610
+ORD10090,2023-02-22,Product 30,Office Supplies,Paper,416.53,1,0.05,152.74,West,CUST1819
+ORD10091,2023-08-05,Product 7,Office Supplies,Binders,312.67,2,0.15,88.99,East,CUST1988
+ORD10092,2023-07-07,Product 27,Office Supplies,Binders,512.71,2,0.1,118.48,East,CUST1998
+ORD10093,2024-01-15,Product 4,Technology,Computers,258.67,2,0.1,64.94,West,CUST1465
+ORD10094,2024-05-07,Product 29,Office Supplies,Binders,655.41,1,0.05,189.8,Central,CUST1651
+ORD10095,2023-02-10,Product 6,Technology,Accessories,469.54,2,0.0,125.5,South,CUST1594
+ORD10096,2023-06-06,Product 25,Office Supplies,Paper,76.82,3,0.0,15.24,South,CUST1559
+ORD10097,2023-01-15,Product 1,Office Supplies,Paper,307.03,4,0.0,49.37,East,CUST1789
+ORD10098,2023-03-06,Product 29,Office Supplies,Paper,664.55,5,0.0,140.37,Central,CUST1378
+ORD10099,2024-06-04,Product 5,Office Supplies,Paper,353.2,2,0.05,101.53,West,CUST1759
+ORD10100,2023-12-10,Product 27,Office Supplies,Paper,783.46,5,0.05,156.53,East,CUST1894
+ORD10101,2023-05-09,Product 23,Office Supplies,Paper,588.66,2,0.15,80.99,West,CUST1176
+ORD10102,2024-10-09,Product 1,Furniture,Chairs,92.12,3,0.0,9.15,West,CUST1051
+ORD10103,2024-04-16,Product 30,Office Supplies,Pens,356.33,2,0.05,74.37,East,CUST1078
+ORD10104,2023-03-04,Product 4,Furniture,Bookcases,300.83,3,0.0,44.58,Central,CUST1384
+ORD10105,2023-05-19,Product 22,Office Supplies,Pens,247.4,6,0.0,46.87,South,CUST1833
+ORD10106,2024-05-13,Product 2,Furniture,Bookcases,306.45,3,0.0,98.66,East,CUST1575
+ORD10107,2024-08-15,Product 10,Technology,Phones,47.5,1,0.1,8.27,Central,CUST1007
+ORD10108,2024-01-27,Product 5,Technology,Computers,550.65,3,0.0,92.22,West,CUST1213
+ORD10109,2024-11-05,Product 27,Technology,Phones,518.99,3,0.1,123.39,East,CUST1024
+ORD10110,2024-02-23,Product 10,Technology,Computers,417.57,3,0.0,148.01,South,CUST1449
+ORD10111,2023-10-16,Product 1,Technology,Accessories,400.43,2,0.15,81.71,South,CUST1767
+ORD10112,2024-01-14,Product 22,Technology,Computers,377.62,6,0.1,18.81,West,CUST1754
+ORD10113,2024-05-04,Product 6,Technology,Computers,479.06,2,0.2,123.19,East,CUST1968
+ORD10114,2023-08-19,Product 13,Office Supplies,Paper,420.78,2,0.15,99.78,South,CUST1456
+ORD10115,2023-02-10,Product 15,Office Supplies,Pens,505.52,4,0.15,111.4,East,CUST1460
+ORD10116,2023-01-28,Product 4,Technology,Accessories,483.68,5,0.15,95.99,South,CUST1197
+ORD10117,2023-05-15,Product 13,Technology,Phones,378.81,5,0.05,60.93,West,CUST1093
+ORD10118,2023-07-20,Product 24,Technology,Phones,316.98,1,0.0,103.35,West,CUST1718
+ORD10119,2023-02-02,Product 20,Technology,Computers,329.59,2,0.0,30.1,East,CUST1946
+ORD10120,2023-02-17,Product 24,Furniture,Chairs,137.64,3,0.0,27.3,Central,CUST1436
+ORD10121,2024-05-17,Product 15,Office Supplies,Paper,674.42,2,0.05,131.68,Central,CUST1526
+ORD10122,2024-02-11,Product 29,Office Supplies,Paper,521.38,2,0.05,144.85,West,CUST1689
+ORD10123,2024-07-27,Product 8,Office Supplies,Paper,550.68,2,0.15,165.78,South,CUST1966
+ORD10124,2024-12-28,Product 5,Office Supplies,Paper,505.82,6,0.2,99.25,Central,CUST1377
+ORD10125,2023-04-09,Product 29,Furniture,Chairs,432.24,4,0.0,100.93,West,CUST1586
+ORD10126,2024-11-14,Product 15,Office Supplies,Binders,318.6,5,0.05,75.29,South,CUST1103
+ORD10127,2024-12-26,Product 4,Technology,Computers,588.29,2,0.2,168.8,South,CUST1805
+ORD10128,2024-06-30,Product 12,Office Supplies,Binders,876.04,2,0.0,256.06,Central,CUST1679
+ORD10129,2024-09-04,Product 13,Technology,Phones,462.21,2,0.1,82.27,West,CUST1961
+ORD10130,2024-04-06,Product 2,Technology,Phones,627.18,2,0.0,157.2,South,CUST1626
+ORD10131,2024-10-04,Product 27,Office Supplies,Pens,378.43,2,0.05,92.41,South,CUST1038
+ORD10132,2023-01-05,Product 19,Technology,Accessories,77.39,3,0.0,16.4,East,CUST1457
+ORD10133,2023-08-06,Product 19,Office Supplies,Pens,338.77,1,0.15,80.39,East,CUST1363
+ORD10134,2024-05-17,Product 4,Office Supplies,Binders,648.22,3,0.05,142.52,Central,CUST1784
+ORD10135,2024-02-02,Product 4,Office Supplies,Paper,384.06,8,0.0,88.74,East,CUST1134
+ORD10136,2024-01-28,Product 26,Office Supplies,Pens,474.23,3,0.0,59.32,West,CUST1373
+ORD10137,2023-07-26,Product 11,Office Supplies,Pens,897.35,4,0.0,139.76,Central,CUST1231
+ORD10138,2023-01-15,Product 27,Technology,Phones,164.3,2,0.2,41.55,Central,CUST1038
+ORD10139,2024-07-07,Product 5,Technology,Computers,517.26,3,0.1,67.96,East,CUST1963
+ORD10140,2024-04-05,Product 20,Technology,Accessories,488.73,3,0.0,123.6,South,CUST1802
+ORD10141,2024-11-21,Product 11,Office Supplies,Binders,43.45,4,0.0,9.31,West,CUST1818
+ORD10142,2024-07-28,Product 30,Technology,Accessories,233.0,2,0.05,67.07,West,CUST1046
+ORD10143,2023-08-29,Product 10,Office Supplies,Binders,267.23,5,0.1,68.93,West,CUST1035
+ORD10144,2024-07-17,Product 8,Office Supplies,Paper,158.61,4,0.1,27.86,Central,CUST1831
+ORD10145,2023-04-06,Product 6,Furniture,Bookcases,108.28,4,0.0,22.13,West,CUST1094
+ORD10146,2024-04-29,Product 6,Office Supplies,Binders,228.72,8,0.1,16.53,South,CUST1984
+ORD10147,2024-02-11,Product 8,Technology,Phones,376.54,4,0.05,78.4,South,CUST1360
+ORD10148,2023-08-19,Product 23,Technology,Computers,564.72,6,0.2,70.03,East,CUST1524
+ORD10149,2024-10-16,Product 15,Office Supplies,Pens,520.46,4,0.15,103.53,West,CUST1145
+ORD10150,2023-06-20,Product 26,Office Supplies,Paper,314.65,3,0.1,53.17,Central,CUST1916
+ORD10151,2024-06-24,Product 14,Office Supplies,Paper,581.57,3,0.1,90.26,East,CUST1367
+ORD10152,2023-02-05,Product 11,Furniture,Tables,34.67,2,0.0,10.51,South,CUST1064
+ORD10153,2024-06-08,Product 12,Office Supplies,Pens,640.67,4,0.1,81.71,West,CUST1227
+ORD10154,2023-06-09,Product 26,Office Supplies,Pens,102.49,1,0.0,15.64,South,CUST1753
+ORD10155,2024-11-29,Product 13,Office Supplies,Paper,279.53,2,0.0,47.83,East,CUST1519
+ORD10156,2023-08-31,Product 8,Technology,Computers,438.81,2,0.0,81.76,South,CUST1815
+ORD10157,2023-03-27,Product 30,Office Supplies,Binders,361.5,3,0.1,55.34,West,CUST1852
+ORD10158,2024-07-31,Product 18,Office Supplies,Pens,133.59,3,0.0,26.03,West,CUST1554
+ORD10159,2024-11-12,Product 25,Technology,Phones,449.73,1,0.0,108.45,East,CUST1755
+ORD10160,2024-07-10,Product 1,Furniture,Chairs,302.14,4,0.0,80.64,West,CUST1180
+ORD10161,2024-07-27,Product 15,Office Supplies,Binders,226.0,2,0.0,59.55,South,CUST1500
+ORD10162,2024-10-07,Product 8,Office Supplies,Binders,161.07,1,0.0,13.92,South,CUST1596
+ORD10163,2023-01-28,Product 28,Office Supplies,Pens,517.52,4,0.1,125.63,Central,CUST1154
+ORD10164,2024-09-11,Product 11,Technology,Computers,226.89,3,0.1,54.93,Central,CUST1786
+ORD10165,2024-07-09,Product 12,Office Supplies,Paper,537.79,1,0.0,93.38,Central,CUST1534
+ORD10166,2023-12-06,Product 12,Technology,Accessories,379.12,4,0.15,124.66,South,CUST1626
+ORD10167,2023-11-27,Product 4,Technology,Accessories,551.52,3,0.1,161.33,South,CUST1817
+ORD10168,2024-10-01,Product 16,Technology,Accessories,109.45,2,0.0,22.68,East,CUST1434
+ORD10169,2024-05-20,Product 4,Office Supplies,Pens,497.24,3,0.1,86.65,Central,CUST1810
+ORD10170,2023-12-14,Product 5,Furniture,Tables,206.95,3,0.2,65.45,South,CUST1098
+ORD10171,2024-04-17,Product 24,Technology,Phones,142.94,4,0.0,31.26,East,CUST1615
+ORD10172,2023-08-19,Product 5,Technology,Phones,456.54,6,0.0,103.16,South,CUST1371
+ORD10173,2023-07-09,Product 8,Office Supplies,Pens,410.69,3,0.15,89.43,East,CUST1562
+ORD10174,2023-08-13,Product 10,Furniture,Bookcases,317.76,1,0.05,120.14,Central,CUST1361
+ORD10175,2024-01-20,Product 17,Office Supplies,Binders,534.74,3,0.0,109.54,Central,CUST1111
+ORD10176,2024-01-12,Product 28,Office Supplies,Pens,403.8,1,0.05,87.17,Central,CUST1452
+ORD10177,2023-10-10,Product 26,Office Supplies,Paper,409.57,3,0.05,65.28,South,CUST1755
+ORD10178,2024-09-24,Product 9,Technology,Accessories,552.77,4,0.15,103.54,South,CUST1168
+ORD10179,2024-09-19,Product 22,Office Supplies,Paper,490.12,1,0.05,71.44,East,CUST1583
+ORD10180,2023-09-16,Product 19,Office Supplies,Binders,446.22,3,0.0,72.84,West,CUST1138
+ORD10181,2023-12-25,Product 29,Office Supplies,Pens,397.5,2,0.05,36.09,West,CUST1847
+ORD10182,2024-12-10,Product 14,Office Supplies,Binders,523.46,3,0.05,146.46,Central,CUST1230
+ORD10183,2024-03-31,Product 8,Technology,Accessories,440.37,4,0.0,101.71,West,CUST1238
+ORD10184,2024-02-15,Product 9,Technology,Phones,118.7,5,0.05,27.1,Central,CUST1983
+ORD10185,2024-10-10,Product 22,Office Supplies,Paper,404.91,1,0.1,85.59,East,CUST1252
+ORD10186,2023-11-14,Product 11,Office Supplies,Binders,198.89,1,0.0,44.75,West,CUST1980
+ORD10187,2024-11-07,Product 23,Technology,Computers,186.24,2,0.05,61.08,West,CUST1435
+ORD10188,2023-08-13,Product 1,Office Supplies,Pens,430.24,2,0.0,71.5,Central,CUST1918
+ORD10189,2023-08-22,Product 14,Office Supplies,Paper,450.38,7,0.0,107.86,East,CUST1560
+ORD10190,2024-11-14,Product 5,Furniture,Bookcases,181.0,4,0.0,43.28,West,CUST1421
+ORD10191,2024-10-25,Product 21,Technology,Phones,416.23,2,0.0,124.84,West,CUST1302
+ORD10192,2024-01-09,Product 26,Office Supplies,Pens,412.71,4,0.1,101.47,West,CUST1071
+ORD10193,2024-11-02,Product 14,Technology,Accessories,485.96,3,0.0,123.54,East,CUST1262
+ORD10194,2024-08-30,Product 4,Office Supplies,Paper,215.53,2,0.1,26.43,East,CUST1833
+ORD10195,2024-04-16,Product 22,Technology,Phones,654.94,3,0.0,107.0,West,CUST1221
+ORD10196,2023-08-21,Product 23,Office Supplies,Binders,420.57,4,0.2,54.17,Central,CUST1076
+ORD10197,2024-11-22,Product 25,Office Supplies,Paper,425.53,2,0.05,18.87,Central,CUST1061
+ORD10198,2023-04-23,Product 1,Office Supplies,Pens,513.07,7,0.1,125.14,West,CUST1470
+ORD10199,2024-05-11,Product 22,Furniture,Bookcases,353.96,3,0.0,71.39,East,CUST1156
+ORD10200,2024-03-17,Product 23,Technology,Phones,543.27,1,0.0,134.7,West,CUST1805
+ORD10201,2024-07-17,Product 19,Office Supplies,Pens,511.23,3,0.0,113.74,East,CUST1124
+ORD10202,2023-09-25,Product 8,Office Supplies,Paper,1030.71,4,0.15,241.1,West,CUST1740
+ORD10203,2024-05-24,Product 15,Technology,Accessories,65.23,2,0.0,20.46,East,CUST1851
+ORD10204,2024-01-21,Product 21,Office Supplies,Paper,143.99,4,0.05,30.75,South,CUST1160
+ORD10205,2024-01-22,Product 15,Office Supplies,Binders,412.29,1,0.1,108.01,Central,CUST1540
+ORD10206,2023-04-23,Product 9,Furniture,Bookcases,619.82,2,0.0,123.25,South,CUST1625
+ORD10207,2024-09-04,Product 21,Office Supplies,Binders,65.38,3,0.1,16.16,Central,CUST1590
+ORD10208,2024-09-16,Product 9,Technology,Computers,272.36,2,0.05,35.29,East,CUST1534
+ORD10209,2023-03-22,Product 10,Furniture,Chairs,635.69,2,0.1,56.08,South,CUST1105
+ORD10210,2024-11-29,Product 20,Office Supplies,Pens,328.16,4,0.0,120.59,Central,CUST1130
+ORD10211,2023-04-23,Product 25,Office Supplies,Paper,669.0,4,0.0,233.17,West,CUST1356
+ORD10212,2023-01-02,Product 21,Office Supplies,Paper,228.59,2,0.0,19.16,East,CUST1988
+ORD10213,2024-10-03,Product 26,Furniture,Tables,412.8,1,0.1,87.77,East,CUST1684
+ORD10214,2023-08-08,Product 9,Furniture,Tables,27.91,3,0.05,5.43,West,CUST1775
+ORD10215,2024-07-19,Product 3,Technology,Accessories,193.63,6,0.0,52.4,West,CUST1853
+ORD10216,2023-08-13,Product 20,Office Supplies,Binders,730.52,1,0.15,246.65,Central,CUST1884
+ORD10217,2024-01-20,Product 25,Technology,Computers,423.59,2,0.0,61.72,East,CUST1796
+ORD10218,2024-02-07,Product 26,Furniture,Bookcases,490.36,3,0.15,70.29,Central,CUST1001
+ORD10219,2024-09-29,Product 11,Technology,Computers,362.1,2,0.2,75.63,West,CUST1232
+ORD10220,2023-05-10,Product 6,Furniture,Chairs,344.09,4,0.15,49.49,East,CUST1368
+ORD10221,2023-02-22,Product 2,Furniture,Bookcases,515.41,3,0.1,13.47,West,CUST1250
+ORD10222,2024-11-14,Product 7,Technology,Computers,97.86,3,0.0,19.97,Central,CUST1945
+ORD10223,2024-12-30,Product 18,Technology,Computers,122.6,5,0.0,34.33,Central,CUST1832
+ORD10224,2024-11-02,Product 27,Office Supplies,Binders,379.5,5,0.1,80.95,Central,CUST1107
+ORD10225,2024-12-10,Product 2,Office Supplies,Pens,301.0,1,0.0,79.37,East,CUST1275
+ORD10226,2024-02-20,Product 27,Technology,Phones,420.63,4,0.0,106.7,West,CUST1179
+ORD10227,2023-09-04,Product 17,Office Supplies,Binders,484.97,4,0.1,69.83,West,CUST1724
+ORD10228,2024-03-14,Product 11,Furniture,Chairs,337.45,2,0.0,75.85,Central,CUST1292
+ORD10229,2023-07-22,Product 27,Furniture,Bookcases,73.79,5,0.15,5.36,Central,CUST1583
+ORD10230,2023-07-03,Product 12,Technology,Accessories,378.49,4,0.1,67.71,Central,CUST1794
+ORD10231,2023-05-03,Product 27,Office Supplies,Paper,427.06,2,0.1,93.46,Central,CUST1174
+ORD10232,2024-02-05,Product 19,Office Supplies,Pens,581.39,2,0.1,125.86,South,CUST1122
+ORD10233,2023-10-21,Product 22,Office Supplies,Paper,383.35,2,0.15,46.7,South,CUST1226
+ORD10234,2023-10-07,Product 24,Technology,Phones,185.75,2,0.1,24.71,South,CUST1901
+ORD10235,2024-09-01,Product 25,Technology,Phones,474.93,2,0.05,113.16,Central,CUST1443
+ORD10236,2023-07-17,Product 7,Furniture,Bookcases,374.71,2,0.0,104.14,Central,CUST1812
+ORD10237,2024-05-25,Product 20,Office Supplies,Pens,322.96,2,0.15,63.37,West,CUST1427
+ORD10238,2023-05-24,Product 6,Furniture,Chairs,127.71,7,0.1,23.8,East,CUST1082
+ORD10239,2024-08-31,Product 21,Furniture,Tables,409.47,3,0.0,116.78,West,CUST1764
+ORD10240,2023-07-20,Product 24,Office Supplies,Binders,578.18,1,0.0,95.95,South,CUST1657
+ORD10241,2023-05-04,Product 1,Furniture,Bookcases,681.78,3,0.05,231.41,West,CUST1631
+ORD10242,2023-07-06,Product 17,Office Supplies,Pens,332.28,2,0.0,41.81,Central,CUST1064
+ORD10243,2023-11-22,Product 29,Office Supplies,Pens,666.79,3,0.15,192.63,South,CUST1280
+ORD10244,2024-04-08,Product 11,Technology,Computers,367.59,4,0.2,90.74,South,CUST1794
+ORD10245,2023-12-15,Product 22,Office Supplies,Pens,542.31,3,0.0,210.8,East,CUST1390
+ORD10246,2024-10-21,Product 26,Technology,Accessories,202.92,2,0.05,27.72,East,CUST1427
+ORD10247,2024-02-07,Product 28,Technology,Computers,517.23,5,0.0,29.28,South,CUST1617
+ORD10248,2023-12-12,Product 18,Technology,Phones,224.04,3,0.1,66.88,South,CUST1924
+ORD10249,2024-05-25,Product 21,Office Supplies,Paper,201.89,6,0.0,23.62,West,CUST1990
+ORD10250,2023-05-27,Product 17,Technology,Accessories,117.71,1,0.05,29.97,South,CUST1811
+ORD10251,2023-05-28,Product 7,Technology,Phones,322.89,2,0.0,97.76,Central,CUST1106
+ORD10252,2024-12-11,Product 17,Technology,Accessories,137.24,1,0.0,33.84,West,CUST1547
+ORD10253,2024-05-03,Product 20,Office Supplies,Binders,234.2,3,0.0,55.33,Central,CUST1658
+ORD10254,2024-10-01,Product 9,Office Supplies,Paper,678.51,2,0.0,168.32,Central,CUST1261
+ORD10255,2024-07-04,Product 17,Technology,Computers,591.61,3,0.05,163.83,Central,CUST1920
+ORD10256,2023-12-04,Product 20,Office Supplies,Paper,189.94,3,0.0,49.59,South,CUST1158
+ORD10257,2024-10-02,Product 22,Technology,Phones,495.06,3,0.05,65.75,East,CUST1264
+ORD10258,2024-04-17,Product 22,Technology,Accessories,229.84,4,0.15,76.93,East,CUST1467
+ORD10259,2023-05-31,Product 28,Technology,Phones,521.08,2,0.1,114.5,Central,CUST1201
+ORD10260,2024-02-19,Product 29,Technology,Accessories,348.45,2,0.15,86.3,South,CUST1932
+ORD10261,2023-10-25,Product 8,Furniture,Bookcases,221.29,4,0.15,56.7,West,CUST1154
+ORD10262,2024-09-02,Product 17,Furniture,Bookcases,458.59,3,0.0,138.0,Central,CUST1012
+ORD10263,2023-09-20,Product 7,Furniture,Bookcases,492.78,6,0.0,144.7,West,CUST1296
+ORD10264,2023-05-24,Product 1,Furniture,Chairs,100.39,3,0.05,22.01,West,CUST1895
+ORD10265,2023-12-12,Product 13,Office Supplies,Binders,248.07,1,0.15,52.75,South,CUST1833
+ORD10266,2024-09-15,Product 30,Office Supplies,Pens,601.29,2,0.2,145.48,South,CUST1497
+ORD10267,2024-07-25,Product 23,Technology,Accessories,340.24,3,0.0,101.05,East,CUST1596
+ORD10268,2023-01-02,Product 19,Office Supplies,Binders,278.19,3,0.0,39.54,East,CUST1992
+ORD10269,2023-10-31,Product 27,Office Supplies,Pens,561.31,5,0.0,148.8,South,CUST1791
+ORD10270,2023-09-11,Product 24,Office Supplies,Pens,484.78,3,0.1,74.57,Central,CUST1244
+ORD10271,2024-10-13,Product 19,Technology,Accessories,298.82,3,0.05,103.46,East,CUST1299
+ORD10272,2024-03-28,Product 30,Technology,Computers,351.0,2,0.0,86.24,West,CUST1361
+ORD10273,2023-02-06,Product 30,Technology,Accessories,530.18,4,0.0,101.2,Central,CUST1353
+ORD10274,2023-06-09,Product 29,Technology,Accessories,546.91,4,0.05,135.73,West,CUST1827
+ORD10275,2023-01-09,Product 17,Furniture,Bookcases,473.69,5,0.1,102.52,South,CUST1520
+ORD10276,2023-08-21,Product 13,Office Supplies,Paper,356.96,6,0.0,74.53,West,CUST1385
+ORD10277,2023-04-09,Product 29,Furniture,Bookcases,458.13,1,0.15,39.77,Central,CUST1758
+ORD10278,2024-10-20,Product 30,Office Supplies,Paper,90.29,1,0.05,12.39,South,CUST1311
+ORD10279,2023-07-27,Product 16,Furniture,Tables,402.73,4,0.1,82.64,Central,CUST1413
+ORD10280,2023-05-11,Product 8,Technology,Accessories,462.31,1,0.1,45.07,West,CUST1277
+ORD10281,2024-02-08,Product 19,Office Supplies,Paper,411.82,3,0.0,73.67,Central,CUST1749
+ORD10282,2023-06-01,Product 18,Office Supplies,Binders,428.57,5,0.0,79.29,South,CUST1714
+ORD10283,2023-02-23,Product 1,Office Supplies,Paper,358.28,4,0.1,57.27,West,CUST1758
+ORD10284,2023-04-30,Product 14,Office Supplies,Paper,303.31,1,0.0,83.13,West,CUST1746
+ORD10285,2024-11-03,Product 19,Office Supplies,Binders,162.21,1,0.1,23.69,East,CUST1592
+ORD10286,2024-09-19,Product 15,Technology,Phones,597.86,3,0.1,133.23,East,CUST1355
+ORD10287,2024-08-09,Product 18,Technology,Computers,564.21,3,0.1,108.18,Central,CUST1524
+ORD10288,2024-09-16,Product 2,Technology,Computers,465.03,2,0.0,98.44,East,CUST1838
+ORD10289,2024-02-24,Product 22,Furniture,Tables,64.12,3,0.0,21.32,East,CUST1015
+ORD10290,2024-02-26,Product 28,Technology,Accessories,369.01,1,0.05,84.82,East,CUST1992
+ORD10291,2023-04-14,Product 17,Technology,Phones,445.64,4,0.0,109.68,East,CUST1044
+ORD10292,2023-09-11,Product 18,Office Supplies,Paper,417.03,1,0.1,67.4,South,CUST1320
+ORD10293,2023-08-15,Product 30,Technology,Phones,590.66,1,0.1,153.83,South,CUST1650
+ORD10294,2023-04-22,Product 6,Office Supplies,Paper,409.7,2,0.0,106.88,East,CUST1325
+ORD10295,2024-05-24,Product 19,Furniture,Bookcases,310.84,3,0.1,76.99,Central,CUST1147
+ORD10296,2024-04-17,Product 4,Furniture,Bookcases,264.49,2,0.0,35.8,South,CUST1354
+ORD10297,2023-04-09,Product 1,Technology,Accessories,317.48,5,0.0,56.84,East,CUST1235
+ORD10298,2023-06-02,Product 8,Office Supplies,Paper,652.87,6,0.2,205.15,South,CUST1702
+ORD10299,2023-12-04,Product 29,Furniture,Chairs,610.89,2,0.2,100.99,West,CUST1612
+ORD10300,2024-12-06,Product 23,Technology,Accessories,534.73,3,0.05,175.41,South,CUST1104
+ORD10301,2023-06-12,Product 7,Office Supplies,Paper,399.35,4,0.15,69.58,South,CUST1473
+ORD10302,2024-12-20,Product 3,Office Supplies,Paper,115.24,4,0.05,25.55,Central,CUST1761
+ORD10303,2024-11-11,Product 10,Technology,Phones,481.6,3,0.0,99.64,South,CUST1395
+ORD10304,2023-06-10,Product 10,Office Supplies,Paper,227.11,1,0.0,36.53,Central,CUST1445
+ORD10305,2024-08-02,Product 19,Furniture,Chairs,183.76,1,0.15,26.75,West,CUST1605
+ORD10306,2024-02-02,Product 14,Office Supplies,Binders,266.54,1,0.0,45.5,East,CUST1219
+ORD10307,2023-10-04,Product 2,Office Supplies,Paper,543.59,4,0.05,124.22,Central,CUST1986
+ORD10308,2024-05-18,Product 28,Furniture,Tables,168.3,2,0.05,46.52,South,CUST1809
+ORD10309,2024-01-27,Product 1,Office Supplies,Paper,364.65,6,0.1,80.35,South,CUST1850
+ORD10310,2023-05-15,Product 23,Technology,Computers,331.37,3,0.0,72.13,Central,CUST1964
+ORD10311,2023-07-14,Product 23,Office Supplies,Pens,273.94,4,0.0,83.48,West,CUST1441
+ORD10312,2024-02-05,Product 28,Office Supplies,Pens,261.51,5,0.0,58.29,East,CUST1644
+ORD10313,2024-10-01,Product 18,Technology,Computers,505.09,1,0.05,90.93,South,CUST1872
+ORD10314,2023-02-02,Product 7,Technology,Accessories,649.95,1,0.1,95.6,West,CUST1666
+ORD10315,2024-11-18,Product 29,Technology,Accessories,342.25,1,0.05,104.73,East,CUST1027
+ORD10316,2024-04-04,Product 8,Technology,Phones,403.54,2,0.1,77.47,East,CUST1793
+ORD10317,2024-04-14,Product 1,Technology,Computers,225.82,2,0.0,40.53,South,CUST1474
+ORD10318,2024-01-10,Product 25,Office Supplies,Binders,399.17,2,0.15,66.23,Central,CUST1627
+ORD10319,2023-01-22,Product 23,Office Supplies,Paper,655.2,2,0.05,198.83,South,CUST1304
+ORD10320,2024-10-31,Product 3,Furniture,Chairs,455.11,3,0.0,81.87,South,CUST1745
+ORD10321,2023-02-07,Product 24,Technology,Accessories,31.54,2,0.0,9.13,South,CUST1404
+ORD10322,2023-08-18,Product 23,Technology,Computers,319.82,2,0.1,63.2,West,CUST1512
+ORD10323,2023-12-31,Product 27,Office Supplies,Paper,598.71,4,0.15,78.07,Central,CUST1501
+ORD10324,2024-07-16,Product 29,Office Supplies,Pens,302.12,2,0.0,59.43,West,CUST1347
+ORD10325,2024-03-13,Product 8,Technology,Computers,401.57,3,0.1,85.42,South,CUST1239
+ORD10326,2023-10-10,Product 22,Furniture,Bookcases,230.7,2,0.0,48.89,Central,CUST1569
+ORD10327,2023-01-27,Product 25,Technology,Phones,475.92,3,0.0,100.04,East,CUST1846
+ORD10328,2023-08-14,Product 15,Furniture,Bookcases,342.52,4,0.05,66.64,Central,CUST1694
+ORD10329,2023-10-04,Product 5,Technology,Phones,185.37,4,0.05,29.6,South,CUST1336
+ORD10330,2024-08-31,Product 3,Office Supplies,Pens,439.08,1,0.1,94.93,Central,CUST1025
+ORD10331,2023-10-11,Product 19,Office Supplies,Paper,486.06,3,0.0,125.34,East,CUST1979
+ORD10332,2024-04-25,Product 1,Office Supplies,Pens,287.81,1,0.0,33.85,East,CUST1408
+ORD10333,2024-03-28,Product 28,Office Supplies,Binders,548.38,4,0.0,170.51,Central,CUST1076
+ORD10334,2024-10-20,Product 15,Furniture,Bookcases,152.28,4,0.0,-5.9,East,CUST1928
+ORD10335,2024-05-30,Product 8,Office Supplies,Pens,338.23,2,0.0,76.19,West,CUST1216
+ORD10336,2024-06-30,Product 2,Technology,Phones,534.19,1,0.0,134.95,Central,CUST1327
+ORD10337,2023-07-11,Product 3,Office Supplies,Paper,421.35,2,0.0,74.9,East,CUST1836
+ORD10338,2023-02-18,Product 24,Office Supplies,Pens,163.7,2,0.0,11.65,East,CUST1773
+ORD10339,2024-05-26,Product 14,Office Supplies,Binders,553.09,2,0.05,116.94,Central,CUST1022
+ORD10340,2023-01-17,Product 24,Office Supplies,Binders,297.33,3,0.0,68.94,West,CUST1755
+ORD10341,2023-06-21,Product 14,Technology,Phones,495.62,5,0.0,69.18,Central,CUST1669
+ORD10342,2023-08-08,Product 11,Office Supplies,Binders,396.94,3,0.05,63.26,East,CUST1717
+ORD10343,2023-06-07,Product 16,Technology,Computers,402.8,4,0.0,115.76,Central,CUST1309
+ORD10344,2024-04-21,Product 4,Office Supplies,Paper,231.69,3,0.05,51.88,East,CUST1598
+ORD10345,2023-02-15,Product 20,Office Supplies,Pens,685.3,4,0.0,78.39,South,CUST1266
+ORD10346,2024-01-08,Product 5,Office Supplies,Paper,508.14,4,0.0,127.79,Central,CUST1414
+ORD10347,2024-06-01,Product 22,Technology,Phones,460.15,1,0.0,71.26,Central,CUST1645
+ORD10348,2023-04-09,Product 21,Technology,Phones,370.6,2,0.0,61.43,East,CUST1266
+ORD10349,2023-02-06,Product 14,Office Supplies,Paper,376.38,3,0.05,87.01,East,CUST1332
+ORD10350,2023-10-07,Product 23,Office Supplies,Binders,897.09,4,0.15,200.92,East,CUST1779
+ORD10351,2023-12-15,Product 16,Technology,Computers,336.16,1,0.0,64.48,East,CUST1449
+ORD10352,2024-05-11,Product 18,Office Supplies,Pens,226.56,2,0.0,41.85,Central,CUST1564
+ORD10353,2023-10-29,Product 7,Office Supplies,Pens,414.68,5,0.1,81.95,East,CUST1610
+ORD10354,2023-06-30,Product 10,Furniture,Chairs,162.32,3,0.0,26.84,Central,CUST1246
+ORD10355,2024-08-29,Product 7,Technology,Accessories,366.93,2,0.1,106.7,West,CUST1035
+ORD10356,2023-04-09,Product 1,Office Supplies,Pens,835.0,2,0.0,91.98,Central,CUST1400
+ORD10357,2024-11-30,Product 23,Furniture,Tables,425.8,2,0.2,82.5,East,CUST1027
+ORD10358,2023-04-26,Product 21,Technology,Phones,480.4,4,0.0,56.61,East,CUST1219
+ORD10359,2023-07-10,Product 19,Office Supplies,Pens,520.65,2,0.0,148.66,West,CUST1405
+ORD10360,2023-09-10,Product 16,Technology,Accessories,179.23,3,0.15,33.39,Central,CUST1613
+ORD10361,2023-06-10,Product 29,Technology,Phones,402.93,6,0.05,57.84,West,CUST1774
+ORD10362,2023-09-13,Product 19,Office Supplies,Binders,426.19,1,0.05,113.2,Central,CUST1270
+ORD10363,2023-11-19,Product 4,Office Supplies,Pens,194.11,4,0.1,9.56,East,CUST1735
+ORD10364,2023-05-08,Product 29,Office Supplies,Pens,628.48,3,0.05,149.62,Central,CUST1650
+ORD10365,2023-01-18,Product 28,Technology,Phones,349.01,2,0.0,104.91,East,CUST1791
+ORD10366,2024-07-19,Product 18,Office Supplies,Paper,483.71,2,0.05,111.5,East,CUST1510
+ORD10367,2024-07-23,Product 2,Furniture,Chairs,159.39,4,0.0,29.41,South,CUST1962
+ORD10368,2023-11-19,Product 1,Technology,Accessories,595.63,2,0.1,77.25,South,CUST1285
+ORD10369,2024-11-16,Product 15,Office Supplies,Binders,152.07,2,0.2,40.98,Central,CUST1453
+ORD10370,2024-09-17,Product 5,Technology,Accessories,328.74,2,0.0,93.66,East,CUST1761
+ORD10371,2023-10-15,Product 20,Office Supplies,Paper,377.29,3,0.0,65.96,West,CUST1833
+ORD10372,2024-10-24,Product 11,Technology,Computers,221.35,2,0.0,39.11,East,CUST1316
+ORD10373,2024-09-30,Product 10,Technology,Computers,54.34,3,0.0,16.47,West,CUST1589
+ORD10374,2023-06-04,Product 2,Office Supplies,Binders,447.01,4,0.15,111.98,Central,CUST1296
+ORD10375,2024-05-04,Product 3,Office Supplies,Binders,315.74,3,0.0,29.98,Central,CUST1337
+ORD10376,2024-01-21,Product 23,Office Supplies,Pens,386.18,4,0.0,79.67,West,CUST1306
+ORD10377,2023-04-14,Product 23,Office Supplies,Pens,342.22,3,0.1,67.72,West,CUST1427
+ORD10378,2024-01-28,Product 12,Office Supplies,Binders,122.48,2,0.15,26.07,East,CUST1350
+ORD10379,2023-09-03,Product 20,Office Supplies,Binders,65.61,3,0.05,13.46,Central,CUST1510
+ORD10380,2023-06-25,Product 5,Furniture,Bookcases,133.26,4,0.05,23.53,East,CUST1524
+ORD10381,2023-02-08,Product 5,Office Supplies,Paper,450.22,3,0.05,103.67,West,CUST1857
+ORD10382,2024-04-21,Product 6,Office Supplies,Binders,440.88,1,0.2,79.17,South,CUST1491
+ORD10383,2024-11-12,Product 30,Technology,Computers,167.57,4,0.05,75.91,South,CUST1907
+ORD10384,2024-06-21,Product 9,Office Supplies,Pens,195.98,2,0.05,43.8,South,CUST1593
+ORD10385,2024-02-12,Product 2,Furniture,Bookcases,417.15,2,0.0,91.34,West,CUST1008
+ORD10386,2024-06-08,Product 21,Technology,Computers,493.3,5,0.0,172.16,East,CUST1496
+ORD10387,2024-05-20,Product 12,Technology,Phones,414.07,4,0.05,50.55,Central,CUST1724
+ORD10388,2023-02-05,Product 3,Office Supplies,Pens,326.08,4,0.15,66.23,West,CUST1559
+ORD10389,2024-11-15,Product 20,Office Supplies,Binders,287.01,3,0.15,41.06,South,CUST1560
+ORD10390,2023-01-20,Product 26,Office Supplies,Paper,176.65,2,0.2,42.72,East,CUST1820
+ORD10391,2023-11-17,Product 22,Furniture,Bookcases,678.15,2,0.05,124.73,Central,CUST1439
+ORD10392,2024-05-26,Product 12,Office Supplies,Paper,360.84,1,0.1,92.04,Central,CUST1551
+ORD10393,2024-02-04,Product 24,Office Supplies,Binders,105.43,5,0.1,24.94,West,CUST1874
+ORD10394,2024-10-15,Product 17,Furniture,Bookcases,559.58,4,0.05,152.68,West,CUST1791
+ORD10395,2024-04-15,Product 10,Office Supplies,Binders,136.61,1,0.0,35.07,Central,CUST1737
+ORD10396,2023-05-23,Product 30,Office Supplies,Pens,502.81,1,0.0,102.73,Central,CUST1967
+ORD10397,2023-04-02,Product 24,Office Supplies,Pens,349.25,7,0.15,39.67,South,CUST1107
+ORD10398,2023-12-20,Product 27,Furniture,Bookcases,199.95,3,0.0,58.11,Central,CUST1244
+ORD10399,2024-12-27,Product 14,Office Supplies,Pens,371.71,7,0.15,115.44,West,CUST1254
+ORD10400,2023-02-20,Product 23,Technology,Computers,440.78,1,0.0,68.03,East,CUST1032
+ORD10401,2024-10-26,Product 17,Technology,Phones,521.5,3,0.1,139.59,South,CUST1022
+ORD10402,2024-11-28,Product 18,Office Supplies,Pens,545.16,1,0.05,74.27,South,CUST1844
+ORD10403,2024-07-28,Product 19,Technology,Computers,170.3,2,0.1,37.89,Central,CUST1565
+ORD10404,2023-07-09,Product 17,Office Supplies,Paper,393.35,7,0.0,97.81,East,CUST1820
+ORD10405,2023-05-05,Product 14,Office Supplies,Paper,366.57,2,0.15,66.71,South,CUST1048
+ORD10406,2023-05-30,Product 9,Technology,Phones,201.68,3,0.05,44.71,West,CUST1461
+ORD10407,2023-11-10,Product 8,Furniture,Chairs,537.9,2,0.0,150.28,Central,CUST1589
+ORD10408,2024-07-23,Product 2,Technology,Phones,459.21,2,0.05,96.51,West,CUST1335
+ORD10409,2023-12-08,Product 13,Technology,Phones,379.6,5,0.0,65.57,Central,CUST1944
+ORD10410,2023-11-01,Product 25,Office Supplies,Pens,353.67,6,0.0,47.51,South,CUST1357
+ORD10411,2024-11-22,Product 7,Office Supplies,Pens,374.06,4,0.0,72.06,Central,CUST1121
+ORD10412,2024-11-12,Product 9,Office Supplies,Binders,455.96,2,0.15,59.82,East,CUST1443
+ORD10413,2023-02-23,Product 22,Office Supplies,Pens,166.03,3,0.05,31.14,West,CUST1358
+ORD10414,2024-03-19,Product 22,Office Supplies,Pens,471.13,4,0.05,87.31,East,CUST1601
+ORD10415,2024-09-04,Product 11,Office Supplies,Paper,45.99,4,0.0,12.71,West,CUST1345
+ORD10416,2023-09-21,Product 14,Office Supplies,Paper,281.39,4,0.0,63.35,West,CUST1192
+ORD10417,2023-02-22,Product 4,Office Supplies,Pens,490.63,4,0.2,191.42,Central,CUST1415
+ORD10418,2024-07-25,Product 26,Technology,Accessories,121.3,3,0.05,8.59,South,CUST1376
+ORD10419,2024-09-11,Product 26,Furniture,Chairs,298.34,4,0.15,69.18,South,CUST1462
+ORD10420,2023-01-05,Product 29,Office Supplies,Pens,182.73,6,0.0,34.42,East,CUST1755
+ORD10421,2023-04-13,Product 13,Furniture,Bookcases,475.79,1,0.0,72.83,Central,CUST1660
+ORD10422,2023-07-15,Product 2,Furniture,Tables,619.51,2,0.15,132.0,South,CUST1145
+ORD10423,2023-12-16,Product 23,Office Supplies,Binders,361.77,4,0.05,75.94,West,CUST1477
+ORD10424,2023-02-16,Product 5,Technology,Phones,471.87,2,0.0,139.41,West,CUST1827
+ORD10425,2024-10-17,Product 11,Technology,Accessories,370.89,1,0.0,83.97,Central,CUST1889
+ORD10426,2023-09-26,Product 6,Technology,Computers,158.65,2,0.1,25.21,East,CUST1652
+ORD10427,2024-01-05,Product 18,Office Supplies,Pens,551.34,4,0.0,134.19,Central,CUST1407
+ORD10428,2024-09-27,Product 21,Technology,Accessories,484.13,4,0.05,97.73,East,CUST1285
+ORD10429,2023-04-16,Product 10,Office Supplies,Binders,227.46,4,0.0,32.12,Central,CUST1897
+ORD10430,2024-10-31,Product 4,Technology,Accessories,172.73,3,0.0,35.0,West,CUST1850
+ORD10431,2024-10-20,Product 9,Technology,Accessories,57.85,3,0.2,9.66,Central,CUST1110
+ORD10432,2024-10-18,Product 6,Technology,Phones,409.59,3,0.0,92.18,South,CUST1619
+ORD10433,2023-04-30,Product 2,Technology,Accessories,267.12,4,0.05,63.94,South,CUST1878
+ORD10434,2024-08-26,Product 17,Technology,Phones,333.63,3,0.1,59.1,Central,CUST1792
+ORD10435,2023-02-27,Product 5,Office Supplies,Pens,713.74,2,0.0,172.89,East,CUST1049
+ORD10436,2023-12-12,Product 25,Office Supplies,Binders,462.61,3,0.0,105.66,East,CUST1013
+ORD10437,2024-04-18,Product 6,Furniture,Chairs,297.39,4,0.05,67.1,West,CUST1133
+ORD10438,2023-04-27,Product 26,Office Supplies,Binders,447.99,2,0.0,99.57,West,CUST1587
+ORD10439,2023-05-07,Product 12,Office Supplies,Pens,255.33,4,0.0,95.07,East,CUST1595
+ORD10440,2024-01-28,Product 23,Office Supplies,Pens,606.7,2,0.0,180.62,Central,CUST1342
+ORD10441,2024-10-02,Product 21,Office Supplies,Pens,514.57,2,0.05,122.85,West,CUST1669
+ORD10442,2023-02-27,Product 10,Furniture,Tables,259.55,1,0.05,41.56,East,CUST1285
+ORD10443,2024-09-25,Product 22,Technology,Accessories,132.6,2,0.05,25.46,East,CUST1933
+ORD10444,2024-05-27,Product 21,Furniture,Chairs,356.89,2,0.0,118.88,Central,CUST1313
+ORD10445,2023-04-06,Product 27,Technology,Computers,703.24,1,0.05,126.0,South,CUST1605
+ORD10446,2024-09-29,Product 25,Office Supplies,Binders,478.58,1,0.2,95.74,East,CUST1296
+ORD10447,2023-04-28,Product 6,Office Supplies,Pens,637.63,2,0.05,129.4,West,CUST1605
+ORD10448,2024-07-13,Product 27,Technology,Computers,374.33,2,0.1,89.99,Central,CUST1568
+ORD10449,2024-08-23,Product 8,Office Supplies,Paper,299.95,3,0.05,55.82,Central,CUST1163
+ORD10450,2024-05-02,Product 2,Furniture,Chairs,505.44,1,0.15,114.45,Central,CUST1831
+ORD10451,2023-08-25,Product 12,Furniture,Chairs,421.22,3,0.15,77.45,South,CUST1496
+ORD10452,2023-09-29,Product 13,Office Supplies,Paper,411.41,1,0.0,128.37,South,CUST1609
+ORD10453,2023-07-08,Product 25,Furniture,Bookcases,568.91,3,0.0,97.83,West,CUST1015
+ORD10454,2024-12-04,Product 21,Furniture,Chairs,472.84,5,0.0,136.38,West,CUST1343
+ORD10455,2024-03-22,Product 7,Technology,Phones,213.68,1,0.0,38.26,Central,CUST1077
+ORD10456,2024-08-03,Product 10,Office Supplies,Paper,416.65,2,0.0,66.76,West,CUST1345
+ORD10457,2023-09-04,Product 13,Office Supplies,Paper,294.44,4,0.1,48.33,East,CUST1071
+ORD10458,2023-03-17,Product 17,Technology,Computers,171.52,4,0.0,17.19,South,CUST1269
+ORD10459,2023-06-03,Product 26,Office Supplies,Paper,457.51,1,0.05,113.7,Central,CUST1286
+ORD10460,2024-10-17,Product 21,Office Supplies,Pens,49.59,2,0.05,5.87,Central,CUST1065
+ORD10461,2024-03-10,Product 28,Technology,Accessories,138.28,4,0.0,26.96,East,CUST1879
+ORD10462,2023-03-27,Product 30,Office Supplies,Pens,614.79,2,0.15,165.03,East,CUST1067
+ORD10463,2024-11-27,Product 26,Technology,Computers,247.64,5,0.1,65.12,East,CUST1192
+ORD10464,2023-10-12,Product 14,Furniture,Chairs,353.16,1,0.0,42.3,East,CUST1054
+ORD10465,2023-08-08,Product 2,Furniture,Tables,626.6,3,0.0,151.47,Central,CUST1979
+ORD10466,2023-03-10,Product 28,Office Supplies,Binders,256.31,1,0.0,76.85,South,CUST1378
+ORD10467,2023-02-16,Product 22,Furniture,Tables,109.83,2,0.1,17.27,South,CUST1973
+ORD10468,2023-04-04,Product 11,Office Supplies,Binders,444.96,3,0.0,113.89,East,CUST1167
+ORD10469,2024-03-28,Product 1,Office Supplies,Pens,319.88,1,0.05,43.77,West,CUST1408
+ORD10470,2023-07-23,Product 19,Technology,Accessories,361.28,5,0.1,87.23,Central,CUST1507
+ORD10471,2023-08-06,Product 21,Office Supplies,Pens,867.12,3,0.0,198.73,South,CUST1536
+ORD10472,2024-04-18,Product 4,Office Supplies,Pens,532.41,3,0.15,138.77,East,CUST1642
+ORD10473,2024-03-07,Product 19,Technology,Computers,286.29,1,0.0,74.99,West,CUST1836
+ORD10474,2023-12-07,Product 26,Office Supplies,Binders,425.32,3,0.15,50.27,West,CUST1101
+ORD10475,2024-07-04,Product 29,Office Supplies,Paper,402.59,3,0.0,92.42,East,CUST1885
+ORD10476,2024-09-03,Product 21,Office Supplies,Paper,239.39,1,0.05,76.01,Central,CUST1793
+ORD10477,2023-10-16,Product 11,Technology,Accessories,413.83,1,0.0,27.74,South,CUST1807
+ORD10478,2023-09-11,Product 8,Technology,Phones,83.78,2,0.1,22.1,West,CUST1805
+ORD10479,2023-12-23,Product 11,Office Supplies,Paper,421.39,4,0.05,138.95,South,CUST1421
+ORD10480,2023-01-23,Product 4,Office Supplies,Pens,512.21,2,0.0,59.46,South,CUST1963
+ORD10481,2024-06-05,Product 17,Office Supplies,Pens,499.7,5,0.05,85.47,West,CUST1774
+ORD10482,2023-04-10,Product 27,Office Supplies,Binders,478.32,1,0.0,122.57,East,CUST1477
+ORD10483,2023-06-29,Product 7,Technology,Accessories,511.33,3,0.05,79.78,West,CUST1925
+ORD10484,2023-08-11,Product 8,Office Supplies,Paper,663.77,4,0.15,206.43,West,CUST1119
+ORD10485,2024-10-20,Product 3,Office Supplies,Pens,154.24,4,0.0,45.37,Central,CUST1914
+ORD10486,2024-03-17,Product 22,Technology,Accessories,140.94,3,0.0,17.34,South,CUST1742
+ORD10487,2024-08-30,Product 2,Technology,Accessories,528.64,1,0.0,88.8,East,CUST1290
+ORD10488,2023-11-21,Product 23,Technology,Accessories,353.92,3,0.05,95.93,South,CUST1487
+ORD10489,2024-05-30,Product 15,Office Supplies,Binders,543.81,2,0.0,147.45,West,CUST1160
+ORD10490,2023-01-16,Product 24,Office Supplies,Binders,423.87,4,0.0,159.07,East,CUST1672
+ORD10491,2023-12-02,Product 22,Office Supplies,Binders,439.89,4,0.0,69.68,East,CUST1077
+ORD10492,2023-09-15,Product 22,Office Supplies,Paper,566.4,5,0.0,182.46,East,CUST1037
+ORD10493,2024-05-11,Product 5,Technology,Computers,456.01,3,0.2,67.15,East,CUST1393
+ORD10494,2023-06-09,Product 24,Furniture,Bookcases,363.24,2,0.0,92.63,Central,CUST1440
+ORD10495,2024-04-19,Product 1,Technology,Accessories,705.31,3,0.05,198.22,East,CUST1539
+ORD10496,2024-10-25,Product 26,Technology,Computers,347.29,2,0.1,1.62,West,CUST1461
+ORD10497,2024-11-20,Product 4,Office Supplies,Pens,485.08,2,0.1,135.66,Central,CUST1611
+ORD10498,2024-11-05,Product 15,Technology,Computers,614.39,4,0.0,194.71,West,CUST1293
+ORD10499,2024-01-15,Product 20,Office Supplies,Binders,523.94,2,0.05,154.46,West,CUST1399
+ORD10500,2024-06-28,Product 19,Technology,Accessories,547.6,2,0.15,196.18,South,CUST1635
+ORD10501,2024-11-21,Product 3,Office Supplies,Pens,99.69,5,0.0,28.67,East,CUST1916
+ORD10502,2024-03-02,Product 20,Office Supplies,Pens,357.24,4,0.0,65.16,East,CUST1091
+ORD10503,2024-09-04,Product 11,Office Supplies,Binders,555.6,4,0.0,170.42,West,CUST1766
+ORD10504,2023-09-25,Product 17,Furniture,Chairs,476.49,2,0.0,85.02,East,CUST1608
+ORD10505,2024-07-30,Product 30,Office Supplies,Pens,374.95,5,0.0,84.65,Central,CUST1005
+ORD10506,2024-02-21,Product 27,Office Supplies,Paper,612.79,3,0.1,168.49,South,CUST1680
+ORD10507,2023-06-17,Product 13,Office Supplies,Pens,359.75,3,0.0,90.43,East,CUST1894
+ORD10508,2023-02-12,Product 11,Technology,Phones,303.0,2,0.05,94.32,East,CUST1270
+ORD10509,2024-07-09,Product 2,Technology,Phones,313.51,5,0.05,122.59,Central,CUST1619
+ORD10510,2023-10-12,Product 9,Technology,Phones,134.66,2,0.0,18.9,South,CUST1898
+ORD10511,2024-02-01,Product 26,Office Supplies,Binders,226.03,5,0.1,42.53,Central,CUST1810
+ORD10512,2023-01-12,Product 2,Technology,Phones,476.91,4,0.0,115.48,West,CUST1558
+ORD10513,2024-08-29,Product 21,Office Supplies,Paper,348.9,3,0.15,62.45,West,CUST1098
+ORD10514,2023-10-29,Product 9,Furniture,Chairs,102.08,2,0.0,21.92,East,CUST1525
+ORD10515,2023-09-10,Product 9,Technology,Computers,377.1,2,0.05,102.44,South,CUST1193
+ORD10516,2024-05-13,Product 8,Office Supplies,Paper,573.97,2,0.1,150.1,West,CUST1156
+ORD10517,2023-02-04,Product 17,Office Supplies,Pens,543.35,6,0.0,128.94,Central,CUST1899
+ORD10518,2024-12-27,Product 1,Office Supplies,Paper,75.08,3,0.0,17.29,West,CUST1665
+ORD10519,2023-03-31,Product 25,Office Supplies,Paper,434.0,1,0.1,86.68,West,CUST1114
+ORD10520,2024-08-27,Product 29,Office Supplies,Binders,463.64,3,0.0,147.58,Central,CUST1395
+ORD10521,2024-08-24,Product 11,Technology,Computers,751.48,7,0.15,249.83,East,CUST1769
+ORD10522,2024-02-22,Product 8,Office Supplies,Paper,122.3,1,0.2,31.63,South,CUST1656
+ORD10523,2023-04-25,Product 10,Office Supplies,Pens,283.77,4,0.0,39.6,East,CUST1802
+ORD10524,2024-09-08,Product 25,Office Supplies,Pens,79.43,1,0.0,16.02,Central,CUST1521
+ORD10525,2023-07-15,Product 7,Office Supplies,Binders,111.62,2,0.0,26.12,West,CUST1879
+ORD10526,2024-05-15,Product 3,Furniture,Tables,146.04,2,0.0,22.51,South,CUST1213
+ORD10527,2024-09-17,Product 3,Office Supplies,Binders,208.46,1,0.1,45.02,East,CUST1744
+ORD10528,2024-05-07,Product 18,Technology,Accessories,590.29,4,0.1,128.78,Central,CUST1682
+ORD10529,2023-03-16,Product 5,Furniture,Tables,214.88,3,0.0,63.58,West,CUST1532
+ORD10530,2024-02-17,Product 12,Technology,Accessories,490.77,3,0.0,90.85,West,CUST1014
+ORD10531,2024-01-11,Product 12,Furniture,Tables,163.13,2,0.0,49.17,East,CUST1418
+ORD10532,2024-02-24,Product 19,Office Supplies,Binders,684.37,3,0.0,104.7,Central,CUST1367
+ORD10533,2024-12-29,Product 30,Furniture,Chairs,172.2,4,0.1,26.03,West,CUST1637
+ORD10534,2023-10-04,Product 6,Office Supplies,Pens,188.73,3,0.0,36.51,West,CUST1852
+ORD10535,2024-11-06,Product 2,Office Supplies,Binders,456.65,1,0.1,99.99,South,CUST1852
+ORD10536,2024-01-29,Product 12,Technology,Accessories,318.31,5,0.05,15.18,West,CUST1212
+ORD10537,2024-04-01,Product 19,Furniture,Bookcases,493.02,3,0.1,122.32,East,CUST1699
+ORD10538,2023-07-11,Product 5,Furniture,Chairs,414.24,3,0.0,140.7,Central,CUST1683
+ORD10539,2024-11-19,Product 12,Office Supplies,Pens,411.78,4,0.05,108.36,Central,CUST1991
+ORD10540,2023-04-09,Product 27,Office Supplies,Pens,248.83,2,0.05,50.07,South,CUST1758
+ORD10541,2024-07-01,Product 27,Furniture,Tables,107.2,4,0.1,13.45,Central,CUST1004
+ORD10542,2023-04-06,Product 17,Office Supplies,Pens,453.47,1,0.0,42.21,East,CUST1230
+ORD10543,2024-10-25,Product 29,Technology,Computers,523.14,1,0.0,54.92,West,CUST1200
+ORD10544,2024-10-24,Product 17,Furniture,Tables,522.58,3,0.05,109.18,South,CUST1884
+ORD10545,2023-07-09,Product 10,Office Supplies,Binders,349.65,6,0.0,128.49,Central,CUST1401
+ORD10546,2023-02-06,Product 25,Office Supplies,Binders,246.01,2,0.0,7.33,South,CUST1148
+ORD10547,2024-01-04,Product 23,Office Supplies,Binders,406.1,4,0.2,105.25,South,CUST1583
+ORD10548,2024-11-25,Product 17,Office Supplies,Pens,214.99,2,0.0,37.1,Central,CUST1491
+ORD10549,2024-06-08,Product 15,Furniture,Bookcases,789.91,1,0.0,155.23,South,CUST1225
+ORD10550,2023-10-06,Product 12,Office Supplies,Paper,487.84,5,0.0,75.3,Central,CUST1585
+ORD10551,2023-08-05,Product 30,Furniture,Chairs,214.71,2,0.05,25.68,East,CUST1818
+ORD10552,2023-09-30,Product 16,Office Supplies,Pens,340.03,4,0.0,77.8,Central,CUST1168
+ORD10553,2023-03-03,Product 24,Furniture,Chairs,552.11,1,0.05,130.62,West,CUST1760
+ORD10554,2024-08-18,Product 19,Office Supplies,Pens,288.68,2,0.0,77.02,Central,CUST1791
+ORD10555,2024-12-29,Product 8,Office Supplies,Paper,174.08,1,0.0,17.76,West,CUST1999
+ORD10556,2023-12-08,Product 21,Office Supplies,Binders,336.3,4,0.1,92.56,South,CUST1151
+ORD10557,2024-02-01,Product 17,Technology,Phones,463.45,2,0.0,130.89,Central,CUST1223
+ORD10558,2024-11-29,Product 23,Technology,Accessories,311.1,2,0.2,73.69,West,CUST1503
+ORD10559,2023-01-19,Product 5,Furniture,Tables,306.4,4,0.0,58.38,Central,CUST1736
+ORD10560,2023-06-26,Product 22,Office Supplies,Binders,111.19,3,0.0,26.86,Central,CUST1549
+ORD10561,2024-09-03,Product 16,Office Supplies,Binders,583.02,7,0.0,121.72,Central,CUST1043
+ORD10562,2024-01-31,Product 6,Technology,Phones,249.38,5,0.0,71.77,East,CUST1696
+ORD10563,2024-03-20,Product 8,Office Supplies,Pens,531.51,2,0.2,99.29,West,CUST1503
+ORD10564,2023-08-21,Product 25,Office Supplies,Binders,152.5,2,0.15,31.7,East,CUST1954
+ORD10565,2023-03-17,Product 18,Furniture,Chairs,539.77,4,0.0,53.07,East,CUST1240
+ORD10566,2023-09-22,Product 25,Furniture,Tables,195.03,3,0.05,46.07,West,CUST1929
+ORD10567,2024-03-30,Product 12,Furniture,Chairs,467.57,2,0.05,77.33,Central,CUST1842
+ORD10568,2024-12-18,Product 15,Technology,Phones,162.52,3,0.0,41.58,East,CUST1350
+ORD10569,2024-01-19,Product 27,Office Supplies,Paper,552.81,1,0.0,152.13,East,CUST1721
+ORD10570,2024-07-17,Product 26,Office Supplies,Pens,194.89,3,0.15,31.55,East,CUST1022
+ORD10571,2024-05-20,Product 9,Technology,Phones,404.24,5,0.2,85.82,Central,CUST1635
+ORD10572,2024-01-02,Product 13,Furniture,Chairs,563.28,4,0.2,126.8,East,CUST1597
+ORD10573,2023-05-24,Product 26,Office Supplies,Pens,737.29,3,0.1,179.2,South,CUST1042
+ORD10574,2023-03-10,Product 15,Office Supplies,Pens,602.06,2,0.05,164.74,West,CUST1465
+ORD10575,2023-04-09,Product 10,Office Supplies,Paper,152.39,2,0.0,40.56,South,CUST1039
+ORD10576,2024-01-31,Product 16,Technology,Computers,430.34,1,0.0,83.23,Central,CUST1302
+ORD10577,2023-01-25,Product 7,Furniture,Tables,583.46,1,0.0,193.64,East,CUST1680
+ORD10578,2024-04-13,Product 17,Technology,Accessories,213.82,4,0.05,57.3,West,CUST1174
+ORD10579,2024-04-28,Product 23,Office Supplies,Pens,463.91,1,0.1,145.69,East,CUST1998
+ORD10580,2024-07-18,Product 26,Furniture,Bookcases,361.97,4,0.1,86.42,Central,CUST1531
+ORD10581,2023-05-31,Product 21,Technology,Phones,352.19,3,0.15,84.49,West,CUST1460
+ORD10582,2023-05-24,Product 22,Office Supplies,Pens,264.54,1,0.15,53.03,South,CUST1620
+ORD10583,2024-07-22,Product 26,Office Supplies,Paper,38.26,5,0.2,3.23,West,CUST1192
+ORD10584,2023-02-08,Product 7,Office Supplies,Binders,442.49,1,0.0,127.56,East,CUST1243
+ORD10585,2023-04-19,Product 14,Office Supplies,Pens,599.77,3,0.1,141.06,West,CUST1835
+ORD10586,2024-11-23,Product 15,Furniture,Chairs,195.95,3,0.05,40.3,Central,CUST1279
+ORD10587,2023-02-11,Product 21,Office Supplies,Paper,449.93,4,0.0,66.78,Central,CUST1739
+ORD10588,2023-07-05,Product 7,Furniture,Tables,281.81,6,0.2,88.68,West,CUST1035
+ORD10589,2024-02-02,Product 9,Office Supplies,Pens,132.99,2,0.15,27.31,Central,CUST1556
+ORD10590,2023-08-11,Product 19,Office Supplies,Binders,527.56,1,0.0,70.76,Central,CUST1897
+ORD10591,2024-09-25,Product 16,Office Supplies,Paper,663.5,3,0.0,149.75,Central,CUST1539
+ORD10592,2023-05-13,Product 8,Office Supplies,Paper,382.03,2,0.05,77.67,South,CUST1153
+ORD10593,2023-06-12,Product 18,Office Supplies,Pens,99.49,4,0.05,19.2,East,CUST1022
+ORD10594,2023-08-03,Product 27,Furniture,Chairs,632.18,6,0.15,161.58,Central,CUST1718
+ORD10595,2023-08-23,Product 23,Technology,Computers,531.1,3,0.0,109.42,West,CUST1931
+ORD10596,2024-10-19,Product 29,Technology,Accessories,227.05,2,0.0,45.1,Central,CUST1090
+ORD10597,2024-08-10,Product 18,Office Supplies,Pens,509.86,3,0.0,160.79,South,CUST1389
+ORD10598,2023-01-09,Product 30,Office Supplies,Pens,472.24,2,0.0,46.39,West,CUST1930
+ORD10599,2023-03-15,Product 20,Office Supplies,Paper,607.01,2,0.0,131.36,East,CUST1358
+ORD10600,2024-05-06,Product 7,Technology,Phones,381.87,2,0.15,105.84,West,CUST1549
+ORD10601,2023-09-10,Product 3,Office Supplies,Pens,273.79,4,0.0,72.25,West,CUST1930
+ORD10602,2023-08-18,Product 18,Office Supplies,Paper,385.17,3,0.0,112.24,West,CUST1227
+ORD10603,2024-06-02,Product 27,Technology,Phones,594.49,2,0.0,214.91,West,CUST1201
+ORD10604,2023-06-23,Product 10,Office Supplies,Paper,31.43,1,0.0,10.65,Central,CUST1349
+ORD10605,2024-10-14,Product 7,Office Supplies,Pens,349.23,2,0.1,46.58,East,CUST1820
+ORD10606,2023-06-17,Product 17,Office Supplies,Paper,170.6,2,0.05,17.3,Central,CUST1765
+ORD10607,2023-06-19,Product 14,Furniture,Bookcases,491.49,1,0.1,117.37,South,CUST1037
+ORD10608,2024-01-28,Product 24,Technology,Phones,411.79,3,0.0,51.56,South,CUST1732
+ORD10609,2024-09-25,Product 3,Office Supplies,Binders,718.96,2,0.0,61.22,West,CUST1499
+ORD10610,2023-07-13,Product 12,Office Supplies,Paper,437.84,2,0.0,106.02,Central,CUST1698
+ORD10611,2024-05-31,Product 28,Furniture,Chairs,530.32,3,0.0,137.72,Central,CUST1042
+ORD10612,2023-01-29,Product 13,Technology,Computers,562.94,3,0.1,189.28,East,CUST1870
+ORD10613,2023-06-14,Product 2,Office Supplies,Pens,298.59,4,0.0,81.75,East,CUST1625
+ORD10614,2024-02-26,Product 3,Furniture,Chairs,395.09,5,0.05,139.01,East,CUST1771
+ORD10615,2023-12-05,Product 5,Office Supplies,Binders,507.31,2,0.0,124.23,Central,CUST1516
+ORD10616,2024-10-09,Product 11,Technology,Phones,230.82,3,0.05,31.42,East,CUST1067
+ORD10617,2024-05-10,Product 8,Technology,Phones,411.47,1,0.15,111.2,East,CUST1739
+ORD10618,2023-12-31,Product 26,Office Supplies,Binders,368.33,3,0.05,114.44,East,CUST1122
+ORD10619,2023-12-08,Product 23,Furniture,Bookcases,305.25,3,0.05,74.51,West,CUST1684
+ORD10620,2024-05-14,Product 23,Technology,Phones,422.57,3,0.2,131.87,South,CUST1335
+ORD10621,2024-10-18,Product 12,Technology,Computers,953.42,3,0.05,200.53,South,CUST1152
+ORD10622,2024-05-25,Product 7,Office Supplies,Pens,77.79,1,0.0,20.09,Central,CUST1973
+ORD10623,2023-11-23,Product 15,Office Supplies,Binders,392.58,4,0.0,81.58,Central,CUST1778
+ORD10624,2023-08-05,Product 24,Office Supplies,Binders,436.05,3,0.1,166.55,West,CUST1668
+ORD10625,2023-10-28,Product 17,Technology,Computers,400.29,3,0.1,109.64,South,CUST1161
+ORD10626,2023-05-12,Product 4,Office Supplies,Paper,294.87,4,0.0,41.82,East,CUST1213
+ORD10627,2023-03-11,Product 29,Technology,Computers,390.5,2,0.0,136.55,East,CUST1909
+ORD10628,2023-09-09,Product 22,Technology,Phones,392.77,1,0.2,62.25,Central,CUST1375
+ORD10629,2024-02-19,Product 25,Office Supplies,Paper,323.49,4,0.0,71.48,South,CUST1919
+ORD10630,2024-03-20,Product 13,Technology,Accessories,538.27,1,0.0,136.06,Central,CUST1442
+ORD10631,2023-07-01,Product 18,Office Supplies,Paper,467.61,2,0.0,120.88,Central,CUST1422
+ORD10632,2023-06-16,Product 1,Furniture,Chairs,452.38,6,0.1,112.84,East,CUST1537
+ORD10633,2023-04-01,Product 16,Office Supplies,Pens,201.23,2,0.0,28.31,East,CUST1938
+ORD10634,2024-12-14,Product 13,Office Supplies,Binders,806.47,2,0.05,203.92,South,CUST1803
+ORD10635,2024-06-14,Product 10,Office Supplies,Paper,392.38,6,0.0,116.55,Central,CUST1934
+ORD10636,2023-02-08,Product 12,Office Supplies,Paper,418.21,6,0.05,122.38,West,CUST1700
+ORD10637,2023-05-06,Product 30,Technology,Accessories,610.96,5,0.1,76.74,South,CUST1911
+ORD10638,2024-03-26,Product 2,Technology,Computers,64.55,3,0.0,11.24,Central,CUST1633
+ORD10639,2023-06-22,Product 23,Technology,Accessories,639.66,1,0.05,92.96,South,CUST1229
+ORD10640,2024-10-14,Product 3,Office Supplies,Binders,462.99,2,0.0,112.87,South,CUST1058
+ORD10641,2023-08-08,Product 10,Office Supplies,Paper,62.45,6,0.0,6.96,South,CUST1095
+ORD10642,2024-09-29,Product 2,Office Supplies,Paper,525.15,4,0.1,72.26,West,CUST1261
+ORD10643,2023-02-27,Product 30,Technology,Computers,239.18,1,0.0,41.48,West,CUST1353
+ORD10644,2024-10-21,Product 27,Furniture,Chairs,327.24,2,0.1,28.83,East,CUST1311
+ORD10645,2024-04-20,Product 23,Office Supplies,Paper,401.35,2,0.0,87.52,East,CUST1135
+ORD10646,2024-03-31,Product 13,Office Supplies,Binders,351.12,3,0.0,25.47,Central,CUST1861
+ORD10647,2023-12-27,Product 13,Technology,Phones,275.0,5,0.0,69.84,South,CUST1794
+ORD10648,2023-01-01,Product 18,Furniture,Bookcases,428.42,3,0.05,81.35,Central,CUST1966
+ORD10649,2024-01-22,Product 3,Technology,Accessories,166.82,2,0.0,29.41,East,CUST1922
+ORD10650,2023-12-14,Product 27,Furniture,Bookcases,58.38,2,0.1,8.96,West,CUST1472
+ORD10651,2023-07-09,Product 7,Office Supplies,Binders,467.97,4,0.0,100.98,East,CUST1631
+ORD10652,2024-05-19,Product 14,Office Supplies,Paper,369.92,3,0.0,96.73,Central,CUST1429
+ORD10653,2023-07-10,Product 20,Furniture,Tables,191.95,4,0.1,57.93,East,CUST1936
+ORD10654,2024-05-22,Product 29,Technology,Accessories,761.99,3,0.1,219.72,Central,CUST1974
+ORD10655,2024-01-04,Product 30,Office Supplies,Paper,139.44,2,0.0,52.46,Central,CUST1536
+ORD10656,2024-02-13,Product 17,Technology,Phones,634.71,1,0.05,168.64,Central,CUST1853
+ORD10657,2023-04-27,Product 29,Furniture,Bookcases,348.74,5,0.0,80.15,Central,CUST1145
+ORD10658,2023-05-14,Product 30,Technology,Computers,65.27,6,0.1,10.27,East,CUST1523
+ORD10659,2023-02-27,Product 21,Technology,Phones,395.39,4,0.15,72.26,Central,CUST1086
+ORD10660,2024-07-09,Product 12,Office Supplies,Paper,177.15,1,0.15,42.66,Central,CUST1946
+ORD10661,2024-11-15,Product 25,Technology,Phones,110.09,2,0.1,14.52,South,CUST1108
+ORD10662,2024-11-02,Product 16,Technology,Accessories,928.04,5,0.0,219.04,Central,CUST1422
+ORD10663,2023-06-22,Product 24,Furniture,Tables,572.95,4,0.1,123.29,East,CUST1344
+ORD10664,2023-05-29,Product 12,Furniture,Tables,519.66,3,0.05,86.84,Central,CUST1265
+ORD10665,2023-03-21,Product 15,Furniture,Chairs,224.52,3,0.0,32.87,West,CUST1733
+ORD10666,2023-08-01,Product 25,Office Supplies,Pens,449.21,3,0.0,178.22,West,CUST1585
+ORD10667,2023-07-22,Product 10,Technology,Phones,382.22,5,0.15,43.72,Central,CUST1993
+ORD10668,2023-08-17,Product 30,Technology,Accessories,205.86,2,0.15,41.31,West,CUST1493
+ORD10669,2024-11-06,Product 25,Technology,Accessories,577.45,1,0.0,176.46,West,CUST1332
+ORD10670,2023-08-15,Product 7,Technology,Phones,372.91,2,0.1,93.85,East,CUST1821
+ORD10671,2024-10-20,Product 20,Furniture,Chairs,405.77,6,0.1,73.82,South,CUST1412
+ORD10672,2024-06-15,Product 5,Office Supplies,Binders,106.38,5,0.0,14.53,West,CUST1613
+ORD10673,2024-03-16,Product 1,Technology,Accessories,541.07,2,0.0,123.95,West,CUST1936
+ORD10674,2024-02-06,Product 30,Office Supplies,Binders,156.4,5,0.1,3.51,South,CUST1648
+ORD10675,2023-02-16,Product 17,Office Supplies,Paper,172.4,6,0.0,39.98,South,CUST1190
+ORD10676,2023-08-21,Product 3,Technology,Accessories,599.78,1,0.0,133.41,West,CUST1972
+ORD10677,2023-11-01,Product 13,Technology,Accessories,371.93,2,0.1,107.69,Central,CUST1932
+ORD10678,2024-06-09,Product 14,Office Supplies,Pens,360.96,3,0.15,47.52,West,CUST1141
+ORD10679,2023-05-23,Product 24,Office Supplies,Paper,289.78,2,0.05,56.19,Central,CUST1868
+ORD10680,2024-02-19,Product 30,Technology,Computers,481.89,5,0.1,118.75,Central,CUST1072
+ORD10681,2024-05-27,Product 18,Office Supplies,Pens,103.57,3,0.0,24.28,Central,CUST1839
+ORD10682,2024-01-08,Product 4,Office Supplies,Binders,376.55,3,0.0,47.45,South,CUST1166
+ORD10683,2024-07-19,Product 18,Office Supplies,Paper,632.33,4,0.05,109.45,West,CUST1167
+ORD10684,2023-09-16,Product 30,Office Supplies,Binders,541.75,2,0.0,172.27,West,CUST1565
+ORD10685,2024-10-17,Product 5,Office Supplies,Paper,659.36,2,0.15,154.03,East,CUST1258
+ORD10686,2024-04-15,Product 25,Office Supplies,Pens,297.64,1,0.0,30.81,South,CUST1438
+ORD10687,2023-01-12,Product 16,Office Supplies,Paper,401.93,5,0.0,113.27,East,CUST1110
+ORD10688,2023-11-26,Product 1,Furniture,Tables,504.31,3,0.0,54.49,East,CUST1743
+ORD10689,2023-12-24,Product 21,Technology,Accessories,341.46,2,0.15,64.78,Central,CUST1672
+ORD10690,2024-02-12,Product 14,Technology,Accessories,238.86,3,0.0,61.97,South,CUST1863
+ORD10691,2024-10-29,Product 15,Office Supplies,Paper,504.73,2,0.0,153.92,East,CUST1838
+ORD10692,2024-01-08,Product 9,Office Supplies,Pens,437.16,2,0.0,24.63,West,CUST1530
+ORD10693,2023-01-08,Product 15,Technology,Computers,383.39,1,0.1,101.44,East,CUST1289
+ORD10694,2023-05-02,Product 17,Office Supplies,Paper,478.32,1,0.0,134.08,South,CUST1973
+ORD10695,2023-12-14,Product 25,Office Supplies,Binders,378.94,3,0.0,68.59,West,CUST1561
+ORD10696,2024-11-06,Product 24,Technology,Computers,341.48,3,0.0,77.3,West,CUST1509
+ORD10697,2023-03-31,Product 4,Technology,Accessories,72.68,8,0.1,-1.54,West,CUST1174
+ORD10698,2024-10-09,Product 12,Office Supplies,Paper,416.11,4,0.0,11.5,Central,CUST1301
+ORD10699,2024-11-28,Product 27,Office Supplies,Binders,148.98,4,0.0,44.34,West,CUST1695
+ORD10700,2023-11-12,Product 26,Technology,Computers,312.62,6,0.0,56.98,Central,CUST1184
+ORD10701,2023-06-27,Product 5,Office Supplies,Pens,528.2,4,0.05,102.4,Central,CUST1338
+ORD10702,2024-06-23,Product 29,Technology,Accessories,537.12,2,0.1,124.99,East,CUST1509
+ORD10703,2023-02-10,Product 5,Technology,Phones,427.14,3,0.05,82.03,East,CUST1818
+ORD10704,2024-12-04,Product 11,Furniture,Tables,189.18,1,0.15,32.55,West,CUST1309
+ORD10705,2024-05-16,Product 28,Office Supplies,Paper,276.67,3,0.2,64.51,South,CUST1506
+ORD10706,2023-05-25,Product 6,Furniture,Tables,678.81,4,0.0,78.28,West,CUST1345
+ORD10707,2023-07-20,Product 7,Technology,Computers,45.97,6,0.1,11.85,East,CUST1080
+ORD10708,2024-12-24,Product 24,Office Supplies,Paper,617.42,3,0.1,123.88,West,CUST1373
+ORD10709,2024-04-05,Product 14,Office Supplies,Paper,610.3,2,0.15,88.3,East,CUST1155
+ORD10710,2024-07-11,Product 24,Technology,Phones,263.4,4,0.0,36.92,West,CUST1786
+ORD10711,2024-06-30,Product 11,Office Supplies,Pens,329.88,1,0.05,72.56,South,CUST1794
+ORD10712,2023-09-10,Product 30,Office Supplies,Binders,436.18,4,0.0,86.61,West,CUST1431
+ORD10713,2024-01-25,Product 13,Office Supplies,Pens,191.44,4,0.15,18.36,South,CUST1499
+ORD10714,2024-08-16,Product 2,Furniture,Chairs,981.08,6,0.0,174.51,South,CUST1760
+ORD10715,2023-09-13,Product 25,Technology,Accessories,398.07,3,0.0,65.03,West,CUST1146
+ORD10716,2024-12-09,Product 7,Technology,Computers,419.95,1,0.0,129.48,South,CUST1480
+ORD10717,2024-03-25,Product 20,Office Supplies,Paper,398.09,2,0.0,91.22,South,CUST1434
+ORD10718,2023-01-10,Product 4,Office Supplies,Paper,322.57,4,0.05,105.4,East,CUST1518
+ORD10719,2023-08-30,Product 27,Technology,Computers,585.68,5,0.0,99.74,East,CUST1668
+ORD10720,2023-09-08,Product 8,Office Supplies,Pens,479.16,5,0.0,95.65,South,CUST1682
+ORD10721,2023-01-05,Product 20,Office Supplies,Pens,282.21,4,0.15,66.72,Central,CUST1068
+ORD10722,2023-04-29,Product 29,Technology,Phones,115.04,2,0.0,30.17,West,CUST1605
+ORD10723,2024-01-09,Product 22,Furniture,Bookcases,246.6,1,0.1,64.7,South,CUST1880
+ORD10724,2023-03-06,Product 21,Technology,Phones,497.69,3,0.0,78.56,West,CUST1874
+ORD10725,2023-05-26,Product 19,Technology,Computers,223.68,4,0.0,35.75,East,CUST1887
+ORD10726,2023-08-12,Product 13,Furniture,Chairs,459.01,3,0.1,87.56,West,CUST1185
+ORD10727,2023-08-27,Product 14,Office Supplies,Paper,104.98,2,0.1,31.98,South,CUST1903
+ORD10728,2023-06-26,Product 10,Technology,Accessories,431.7,4,0.0,64.73,South,CUST1681
+ORD10729,2023-10-09,Product 11,Furniture,Bookcases,177.77,2,0.2,28.55,South,CUST1203
+ORD10730,2023-03-04,Product 2,Office Supplies,Pens,463.47,4,0.15,122.64,South,CUST1553
+ORD10731,2023-08-05,Product 25,Technology,Phones,577.95,4,0.2,150.51,Central,CUST1012
+ORD10732,2024-11-19,Product 26,Technology,Phones,611.32,5,0.0,158.26,Central,CUST1665
+ORD10733,2024-04-05,Product 9,Technology,Phones,117.98,3,0.0,26.62,Central,CUST1273
+ORD10734,2024-09-01,Product 17,Technology,Accessories,385.07,2,0.05,55.0,South,CUST1297
+ORD10735,2023-04-15,Product 26,Furniture,Tables,666.91,4,0.05,113.47,Central,CUST1050
+ORD10736,2023-04-09,Product 3,Technology,Phones,288.98,2,0.0,86.36,West,CUST1499
+ORD10737,2024-05-25,Product 24,Office Supplies,Pens,461.77,6,0.1,124.6,South,CUST1368
+ORD10738,2024-01-20,Product 6,Furniture,Bookcases,370.68,3,0.0,46.91,East,CUST1723
+ORD10739,2024-02-09,Product 5,Office Supplies,Binders,440.48,4,0.0,123.71,South,CUST1655
+ORD10740,2024-06-01,Product 5,Office Supplies,Binders,126.62,1,0.0,39.46,West,CUST1356
+ORD10741,2024-04-20,Product 22,Office Supplies,Paper,428.47,2,0.1,93.88,Central,CUST1002
+ORD10742,2024-12-09,Product 15,Office Supplies,Pens,498.32,5,0.0,124.5,South,CUST1253
+ORD10743,2024-10-06,Product 23,Office Supplies,Paper,617.12,2,0.1,177.46,Central,CUST1474
+ORD10744,2024-03-12,Product 17,Furniture,Tables,624.32,6,0.05,105.95,South,CUST1846
+ORD10745,2023-01-23,Product 9,Technology,Computers,494.56,1,0.1,187.45,West,CUST1505
+ORD10746,2024-07-18,Product 3,Technology,Computers,395.77,3,0.2,116.95,South,CUST1255
+ORD10747,2024-11-07,Product 20,Office Supplies,Binders,204.48,5,0.05,51.49,Central,CUST1609
+ORD10748,2024-12-14,Product 26,Furniture,Chairs,437.65,3,0.2,91.23,Central,CUST1684
+ORD10749,2024-04-02,Product 17,Furniture,Chairs,459.71,3,0.0,117.06,West,CUST1149
+ORD10750,2023-03-24,Product 29,Technology,Computers,41.58,3,0.0,4.61,South,CUST1487
+ORD10751,2023-05-25,Product 27,Office Supplies,Binders,462.82,2,0.0,169.27,East,CUST1278
+ORD10752,2023-03-26,Product 10,Office Supplies,Pens,411.86,3,0.0,123.16,South,CUST1058
+ORD10753,2023-03-19,Product 3,Office Supplies,Binders,283.05,2,0.1,89.28,West,CUST1445
+ORD10754,2024-04-01,Product 18,Office Supplies,Paper,235.81,3,0.0,52.39,East,CUST1112
+ORD10755,2023-01-01,Product 18,Office Supplies,Binders,595.23,3,0.05,114.94,West,CUST1835
+ORD10756,2023-02-20,Product 30,Furniture,Chairs,35.8,1,0.05,5.19,South,CUST1754
+ORD10757,2024-11-15,Product 17,Office Supplies,Binders,477.12,4,0.05,131.14,East,CUST1821
+ORD10758,2024-12-17,Product 24,Office Supplies,Pens,90.17,3,0.0,16.6,West,CUST1568
+ORD10759,2024-03-21,Product 3,Office Supplies,Paper,485.06,1,0.1,98.35,Central,CUST1488
+ORD10760,2024-03-24,Product 3,Office Supplies,Pens,507.37,4,0.0,131.03,East,CUST1406
+ORD10761,2024-05-02,Product 6,Office Supplies,Pens,710.16,3,0.0,123.46,East,CUST1366
+ORD10762,2023-02-03,Product 13,Office Supplies,Paper,454.76,5,0.05,132.28,West,CUST1059
+ORD10763,2023-12-14,Product 24,Office Supplies,Paper,593.16,1,0.05,128.76,Central,CUST1328
+ORD10764,2023-04-05,Product 29,Technology,Computers,50.13,4,0.0,5.74,East,CUST1727
+ORD10765,2023-03-13,Product 15,Furniture,Bookcases,92.14,3,0.15,12.95,West,CUST1468
+ORD10766,2024-07-04,Product 25,Office Supplies,Pens,383.21,3,0.0,119.4,East,CUST1744
+ORD10767,2023-06-03,Product 9,Office Supplies,Pens,612.14,4,0.0,94.52,East,CUST1566
+ORD10768,2023-09-07,Product 4,Furniture,Chairs,773.76,3,0.0,218.65,East,CUST1884
+ORD10769,2024-11-04,Product 14,Office Supplies,Paper,461.16,3,0.05,104.38,Central,CUST1719
+ORD10770,2024-03-13,Product 5,Office Supplies,Pens,349.69,2,0.1,70.73,South,CUST1062
+ORD10771,2023-04-28,Product 2,Furniture,Tables,635.74,1,0.0,251.68,South,CUST1183
+ORD10772,2023-11-02,Product 11,Office Supplies,Binders,249.23,2,0.0,32.43,Central,CUST1310
+ORD10773,2023-09-25,Product 9,Technology,Phones,60.75,4,0.1,8.22,Central,CUST1792
+ORD10774,2023-02-23,Product 24,Technology,Computers,168.86,2,0.0,36.87,West,CUST1537
+ORD10775,2023-08-24,Product 3,Office Supplies,Pens,382.85,3,0.0,148.97,East,CUST1176
+ORD10776,2024-01-24,Product 27,Office Supplies,Paper,333.5,1,0.05,71.88,Central,CUST1574
+ORD10777,2024-02-05,Product 28,Technology,Accessories,98.41,1,0.0,23.54,West,CUST1428
+ORD10778,2024-09-15,Product 29,Office Supplies,Binders,209.56,2,0.15,38.18,South,CUST1072
+ORD10779,2023-10-30,Product 9,Office Supplies,Binders,504.96,2,0.0,123.77,South,CUST1846
+ORD10780,2023-07-26,Product 3,Technology,Phones,442.27,5,0.1,86.82,South,CUST1166
+ORD10781,2023-08-17,Product 25,Technology,Accessories,610.66,3,0.0,164.07,South,CUST1224
+ORD10782,2024-07-31,Product 2,Office Supplies,Paper,76.66,4,0.15,18.02,West,CUST1576
+ORD10783,2023-03-16,Product 12,Furniture,Chairs,139.94,1,0.0,28.49,East,CUST1580
+ORD10784,2024-03-10,Product 10,Office Supplies,Pens,351.08,2,0.05,48.58,West,CUST1951
+ORD10785,2023-04-13,Product 9,Furniture,Tables,326.69,3,0.05,73.01,East,CUST1008
+ORD10786,2024-02-26,Product 15,Technology,Phones,469.99,3,0.0,149.53,South,CUST1235
+ORD10787,2024-12-04,Product 8,Technology,Accessories,296.89,7,0.0,48.14,Central,CUST1709
+ORD10788,2023-11-02,Product 25,Office Supplies,Binders,326.07,4,0.1,77.36,Central,CUST1923
+ORD10789,2023-04-08,Product 5,Furniture,Bookcases,428.52,3,0.15,55.11,Central,CUST1684
+ORD10790,2023-12-01,Product 11,Office Supplies,Binders,494.45,3,0.0,72.79,East,CUST1793
+ORD10791,2024-03-10,Product 27,Technology,Computers,391.74,3,0.0,121.84,South,CUST1027
+ORD10792,2024-03-22,Product 2,Office Supplies,Paper,96.09,3,0.1,23.79,West,CUST1807
+ORD10793,2023-11-04,Product 24,Office Supplies,Binders,215.63,5,0.0,52.71,Central,CUST1910
+ORD10794,2023-09-06,Product 28,Office Supplies,Paper,350.15,2,0.2,16.13,East,CUST1645
+ORD10795,2023-06-15,Product 15,Furniture,Tables,521.14,3,0.05,93.48,Central,CUST1026
+ORD10796,2024-04-25,Product 6,Furniture,Chairs,99.63,3,0.05,25.15,West,CUST1549
+ORD10797,2023-12-01,Product 8,Office Supplies,Binders,90.06,1,0.0,10.68,South,CUST1195
+ORD10798,2024-06-25,Product 27,Office Supplies,Binders,319.99,3,0.0,62.47,West,CUST1202
+ORD10799,2023-04-16,Product 5,Technology,Accessories,265.84,4,0.05,71.75,South,CUST1084
+ORD10800,2024-07-16,Product 16,Office Supplies,Binders,174.71,6,0.15,16.96,South,CUST1831
+ORD10801,2023-03-22,Product 26,Office Supplies,Binders,74.77,2,0.2,3.66,South,CUST1029
+ORD10802,2023-05-13,Product 18,Technology,Accessories,397.93,1,0.0,45.93,Central,CUST1465
+ORD10803,2023-05-18,Product 6,Technology,Accessories,455.82,3,0.0,110.95,West,CUST1098
+ORD10804,2023-07-03,Product 5,Furniture,Tables,171.97,3,0.0,31.13,Central,CUST1898
+ORD10805,2024-02-05,Product 28,Office Supplies,Binders,394.03,1,0.15,107.91,West,CUST1189
+ORD10806,2023-11-26,Product 16,Office Supplies,Paper,454.97,3,0.0,103.95,East,CUST1011
+ORD10807,2024-05-22,Product 13,Technology,Computers,85.12,7,0.0,29.93,East,CUST1602
+ORD10808,2023-03-10,Product 28,Technology,Accessories,321.65,1,0.0,42.9,West,CUST1029
+ORD10809,2024-06-29,Product 5,Technology,Computers,619.87,1,0.0,150.77,West,CUST1724
+ORD10810,2023-02-22,Product 13,Technology,Accessories,76.11,4,0.2,8.51,West,CUST1037
+ORD10811,2024-03-25,Product 17,Office Supplies,Binders,480.41,8,0.05,124.87,West,CUST1852
+ORD10812,2023-07-24,Product 18,Furniture,Chairs,278.08,2,0.0,63.51,South,CUST1571
+ORD10813,2023-05-06,Product 8,Office Supplies,Paper,243.28,2,0.0,36.61,Central,CUST1293
+ORD10814,2023-02-12,Product 13,Office Supplies,Pens,133.18,4,0.0,27.83,South,CUST1359
+ORD10815,2023-04-21,Product 30,Technology,Phones,928.92,3,0.0,209.12,Central,CUST1654
+ORD10816,2024-10-24,Product 29,Office Supplies,Paper,252.45,2,0.0,44.95,Central,CUST1913
+ORD10817,2023-07-02,Product 19,Office Supplies,Pens,929.74,3,0.05,250.87,Central,CUST1179
+ORD10818,2023-04-05,Product 26,Furniture,Chairs,732.62,5,0.0,108.3,South,CUST1796
+ORD10819,2024-01-09,Product 3,Office Supplies,Binders,322.36,3,0.0,118.1,West,CUST1111
+ORD10820,2024-06-03,Product 24,Technology,Computers,435.55,4,0.0,124.9,South,CUST1741
+ORD10821,2023-12-26,Product 8,Office Supplies,Pens,357.62,3,0.1,85.41,South,CUST1443
+ORD10822,2024-11-26,Product 2,Technology,Accessories,283.93,5,0.05,118.02,Central,CUST1020
+ORD10823,2023-10-08,Product 8,Office Supplies,Paper,181.6,4,0.05,35.02,East,CUST1144
+ORD10824,2023-07-14,Product 27,Office Supplies,Pens,203.25,3,0.05,52.41,East,CUST1498
+ORD10825,2023-07-14,Product 13,Furniture,Bookcases,289.12,2,0.05,67.11,South,CUST1145
+ORD10826,2024-10-28,Product 13,Technology,Accessories,265.47,2,0.0,73.22,Central,CUST1440
+ORD10827,2023-04-03,Product 1,Office Supplies,Binders,414.34,3,0.15,131.55,South,CUST1886
+ORD10828,2024-11-02,Product 6,Office Supplies,Paper,300.2,3,0.0,77.58,South,CUST1420
+ORD10829,2023-03-02,Product 24,Furniture,Bookcases,262.6,3,0.0,76.92,West,CUST1315
+ORD10830,2024-09-25,Product 19,Technology,Phones,191.44,1,0.1,32.74,Central,CUST1165
+ORD10831,2023-02-20,Product 16,Technology,Phones,773.17,1,0.0,158.94,East,CUST1651
+ORD10832,2024-02-07,Product 8,Technology,Accessories,502.13,3,0.15,165.05,East,CUST1202
+ORD10833,2023-01-05,Product 28,Office Supplies,Pens,214.27,2,0.0,56.09,East,CUST1495
+ORD10834,2024-04-10,Product 1,Office Supplies,Pens,465.4,5,0.15,107.48,South,CUST1755
+ORD10835,2024-08-26,Product 27,Technology,Computers,319.82,4,0.1,51.5,Central,CUST1624
+ORD10836,2024-11-12,Product 27,Office Supplies,Binders,277.63,1,0.2,75.86,West,CUST1467
+ORD10837,2024-06-17,Product 16,Office Supplies,Binders,479.71,5,0.15,76.29,East,CUST1712
+ORD10838,2024-02-09,Product 9,Furniture,Tables,359.01,4,0.15,48.94,Central,CUST1384
+ORD10839,2024-05-27,Product 13,Technology,Accessories,288.47,3,0.1,63.78,East,CUST1313
+ORD10840,2024-10-06,Product 11,Technology,Accessories,480.26,2,0.0,24.89,West,CUST1770
+ORD10841,2023-08-21,Product 13,Technology,Computers,460.44,1,0.0,120.99,Central,CUST1254
+ORD10842,2024-06-07,Product 25,Technology,Phones,576.53,5,0.05,141.05,South,CUST1958
+ORD10843,2023-12-12,Product 21,Office Supplies,Pens,422.66,2,0.2,78.55,South,CUST1916
+ORD10844,2023-02-15,Product 10,Office Supplies,Paper,473.95,3,0.1,93.57,East,CUST1022
+ORD10845,2024-06-29,Product 4,Office Supplies,Binders,537.99,5,0.15,110.86,East,CUST1904
+ORD10846,2023-03-19,Product 27,Office Supplies,Paper,488.96,4,0.1,78.56,Central,CUST1757
+ORD10847,2024-12-30,Product 6,Technology,Computers,141.61,2,0.0,32.98,West,CUST1338
+ORD10848,2023-03-14,Product 28,Office Supplies,Pens,395.59,1,0.0,80.12,East,CUST1492
+ORD10849,2023-09-06,Product 7,Office Supplies,Paper,84.59,2,0.0,19.28,Central,CUST1822
+ORD10850,2023-02-16,Product 5,Office Supplies,Binders,228.99,4,0.0,47.88,West,CUST1510
+ORD10851,2023-05-01,Product 11,Office Supplies,Binders,721.05,3,0.05,139.84,East,CUST1365
+ORD10852,2023-08-02,Product 13,Office Supplies,Pens,325.1,1,0.2,73.86,East,CUST1371
+ORD10853,2023-08-27,Product 26,Office Supplies,Paper,438.65,3,0.1,118.49,Central,CUST1914
+ORD10854,2023-02-25,Product 25,Office Supplies,Binders,580.45,4,0.0,106.38,East,CUST1829
+ORD10855,2023-12-16,Product 19,Office Supplies,Binders,124.84,2,0.0,30.92,South,CUST1598
+ORD10856,2023-04-17,Product 23,Office Supplies,Pens,176.82,4,0.0,45.33,West,CUST1218
+ORD10857,2023-02-17,Product 10,Technology,Accessories,490.92,2,0.05,62.88,West,CUST1474
+ORD10858,2024-07-26,Product 10,Office Supplies,Paper,163.54,5,0.0,47.16,South,CUST1422
+ORD10859,2023-12-03,Product 11,Office Supplies,Pens,813.25,5,0.0,295.98,Central,CUST1355
+ORD10860,2023-01-26,Product 21,Technology,Computers,193.69,1,0.0,41.42,South,CUST1459
+ORD10861,2023-09-14,Product 30,Office Supplies,Paper,545.86,1,0.0,113.55,South,CUST1502
+ORD10862,2023-01-08,Product 7,Furniture,Bookcases,258.04,4,0.15,49.92,West,CUST1026
+ORD10863,2024-09-16,Product 18,Technology,Accessories,535.13,2,0.0,140.98,Central,CUST1941
+ORD10864,2023-09-10,Product 4,Office Supplies,Binders,88.34,2,0.0,22.59,East,CUST1801
+ORD10865,2024-11-22,Product 2,Technology,Phones,241.65,4,0.0,26.26,South,CUST1800
+ORD10866,2024-12-19,Product 14,Office Supplies,Binders,94.56,3,0.0,15.07,South,CUST1859
+ORD10867,2023-10-30,Product 13,Technology,Phones,88.49,1,0.05,21.61,Central,CUST1222
+ORD10868,2024-09-30,Product 29,Office Supplies,Paper,256.84,5,0.1,51.9,South,CUST1863
+ORD10869,2023-02-25,Product 12,Furniture,Tables,252.51,2,0.0,34.94,Central,CUST1689
+ORD10870,2024-12-26,Product 7,Office Supplies,Paper,368.43,4,0.05,118.75,East,CUST1147
+ORD10871,2024-06-09,Product 2,Technology,Accessories,649.65,3,0.0,106.56,Central,CUST1423
+ORD10872,2024-04-18,Product 13,Technology,Computers,259.86,3,0.05,56.82,East,CUST1738
+ORD10873,2023-01-28,Product 14,Office Supplies,Pens,560.35,2,0.0,116.55,Central,CUST1350
+ORD10874,2023-03-19,Product 27,Office Supplies,Paper,291.49,2,0.0,42.12,South,CUST1185
+ORD10875,2023-08-04,Product 17,Technology,Accessories,322.68,3,0.1,73.17,East,CUST1414
+ORD10876,2024-01-21,Product 9,Furniture,Tables,526.05,2,0.1,128.17,South,CUST1805
+ORD10877,2023-12-31,Product 17,Office Supplies,Pens,133.36,2,0.1,22.97,East,CUST1981
+ORD10878,2024-10-27,Product 8,Technology,Computers,472.15,1,0.0,92.76,Central,CUST1428
+ORD10879,2024-06-09,Product 2,Furniture,Tables,450.69,2,0.0,118.1,Central,CUST1040
+ORD10880,2024-11-29,Product 28,Furniture,Chairs,458.48,4,0.2,33.48,Central,CUST1904
+ORD10881,2023-11-08,Product 24,Office Supplies,Pens,442.44,4,0.0,71.17,West,CUST1392
+ORD10882,2023-01-07,Product 13,Technology,Phones,207.84,3,0.0,48.83,West,CUST1702
+ORD10883,2023-01-03,Product 3,Office Supplies,Paper,431.6,1,0.0,79.04,East,CUST1078
+ORD10884,2024-09-14,Product 16,Furniture,Bookcases,562.56,3,0.0,102.46,West,CUST1716
+ORD10885,2023-12-29,Product 6,Office Supplies,Paper,249.78,5,0.0,70.72,Central,CUST1895
+ORD10886,2024-05-22,Product 19,Office Supplies,Paper,472.26,4,0.0,82.96,West,CUST1789
+ORD10887,2023-10-01,Product 30,Technology,Accessories,229.62,1,0.0,82.33,West,CUST1783
+ORD10888,2024-05-20,Product 7,Office Supplies,Paper,201.36,2,0.15,16.57,South,CUST1543
+ORD10889,2023-01-15,Product 10,Furniture,Tables,599.15,4,0.0,39.04,East,CUST1449
+ORD10890,2023-07-11,Product 9,Furniture,Bookcases,685.94,3,0.0,193.11,East,CUST1473
+ORD10891,2024-09-22,Product 2,Technology,Computers,364.29,2,0.05,54.05,East,CUST1141
+ORD10892,2024-04-29,Product 28,Office Supplies,Binders,502.73,4,0.05,75.57,West,CUST1250
+ORD10893,2023-01-28,Product 28,Technology,Computers,485.99,3,0.0,140.42,Central,CUST1293
+ORD10894,2024-12-14,Product 15,Office Supplies,Paper,547.48,2,0.1,99.39,South,CUST1609
+ORD10895,2023-02-08,Product 30,Office Supplies,Paper,373.86,3,0.0,106.07,East,CUST1135
+ORD10896,2023-09-30,Product 5,Furniture,Chairs,492.92,2,0.1,85.38,West,CUST1483
+ORD10897,2023-08-19,Product 29,Office Supplies,Pens,483.1,3,0.0,118.54,Central,CUST1788
+ORD10898,2023-03-27,Product 22,Office Supplies,Paper,316.34,1,0.0,58.27,South,CUST1311
+ORD10899,2024-04-18,Product 4,Furniture,Bookcases,374.88,4,0.15,55.34,South,CUST1813
+ORD10900,2023-05-06,Product 20,Office Supplies,Paper,573.82,4,0.05,194.75,East,CUST1554
+ORD10901,2024-06-20,Product 4,Office Supplies,Binders,375.94,2,0.0,112.09,East,CUST1631
+ORD10902,2023-05-25,Product 18,Furniture,Bookcases,288.7,3,0.0,48.83,Central,CUST1731
+ORD10903,2024-06-08,Product 4,Office Supplies,Pens,366.76,3,0.0,76.11,West,CUST1045
+ORD10904,2023-07-31,Product 27,Technology,Phones,36.32,1,0.05,10.74,Central,CUST1235
+ORD10905,2023-01-25,Product 17,Furniture,Bookcases,555.98,5,0.0,83.86,East,CUST1047
+ORD10906,2024-08-02,Product 12,Furniture,Bookcases,68.55,2,0.0,10.6,Central,CUST1197
+ORD10907,2024-01-29,Product 22,Technology,Accessories,555.99,5,0.0,140.61,West,CUST1083
+ORD10908,2023-03-08,Product 17,Office Supplies,Binders,502.52,4,0.1,188.42,South,CUST1542
+ORD10909,2023-08-21,Product 10,Office Supplies,Paper,132.8,5,0.1,27.72,South,CUST1160
+ORD10910,2023-04-19,Product 22,Furniture,Tables,438.06,2,0.1,126.56,South,CUST1427
+ORD10911,2023-05-26,Product 1,Furniture,Chairs,354.63,2,0.0,52.76,South,CUST1070
+ORD10912,2023-04-21,Product 22,Technology,Phones,517.06,3,0.15,123.82,East,CUST1519
+ORD10913,2023-08-16,Product 26,Office Supplies,Paper,160.54,1,0.05,30.28,East,CUST1968
+ORD10914,2023-04-21,Product 24,Office Supplies,Pens,342.47,2,0.15,117.09,West,CUST1897
+ORD10915,2024-04-14,Product 27,Office Supplies,Binders,585.54,5,0.0,194.35,West,CUST1912
+ORD10916,2023-02-03,Product 18,Technology,Phones,32.68,2,0.0,12.4,West,CUST1051
+ORD10917,2024-09-14,Product 18,Office Supplies,Binders,132.38,2,0.1,20.68,West,CUST1044
+ORD10918,2024-01-04,Product 14,Furniture,Chairs,441.79,6,0.0,98.29,Central,CUST1292
+ORD10919,2024-08-17,Product 15,Technology,Accessories,199.36,4,0.05,48.09,West,CUST1937
+ORD10920,2024-07-07,Product 29,Office Supplies,Binders,607.92,5,0.1,103.81,South,CUST1811
+ORD10921,2024-02-29,Product 12,Technology,Phones,236.24,5,0.1,52.14,South,CUST1464
+ORD10922,2024-09-04,Product 4,Office Supplies,Pens,381.87,3,0.2,104.31,South,CUST1884
+ORD10923,2024-06-01,Product 27,Technology,Accessories,555.08,3,0.05,99.73,Central,CUST1549
+ORD10924,2024-11-22,Product 3,Technology,Computers,73.21,3,0.0,12.5,West,CUST1866
+ORD10925,2023-10-09,Product 20,Furniture,Bookcases,158.04,3,0.0,26.25,South,CUST1379
+ORD10926,2023-11-16,Product 29,Furniture,Chairs,450.1,4,0.0,56.69,South,CUST1742
+ORD10927,2024-03-18,Product 12,Office Supplies,Paper,192.2,2,0.05,52.77,South,CUST1477
+ORD10928,2023-11-11,Product 7,Office Supplies,Paper,519.52,5,0.0,88.63,South,CUST1261
+ORD10929,2024-01-12,Product 29,Technology,Accessories,237.72,3,0.0,38.8,East,CUST1579
+ORD10930,2023-10-16,Product 11,Office Supplies,Paper,40.42,4,0.05,9.39,West,CUST1178
+ORD10931,2024-03-12,Product 1,Office Supplies,Paper,322.03,3,0.1,68.61,West,CUST1356
+ORD10932,2024-10-23,Product 6,Office Supplies,Binders,474.43,3,0.2,82.92,Central,CUST1418
+ORD10933,2023-10-04,Product 15,Technology,Accessories,346.56,2,0.1,93.91,East,CUST1697
+ORD10934,2024-12-10,Product 15,Office Supplies,Paper,396.52,2,0.1,69.54,Central,CUST1952
+ORD10935,2024-08-04,Product 19,Technology,Phones,129.46,2,0.05,7.75,South,CUST1200
+ORD10936,2024-05-17,Product 11,Furniture,Chairs,662.96,5,0.2,203.72,Central,CUST1901
+ORD10937,2024-09-15,Product 26,Office Supplies,Paper,150.84,2,0.05,23.44,South,CUST1012
+ORD10938,2024-05-30,Product 23,Office Supplies,Pens,264.49,3,0.15,41.88,South,CUST1442
+ORD10939,2023-12-16,Product 26,Office Supplies,Pens,556.41,2,0.15,91.58,West,CUST1725
+ORD10940,2024-03-21,Product 2,Furniture,Chairs,397.87,3,0.15,86.19,West,CUST1731
+ORD10941,2023-12-16,Product 14,Office Supplies,Pens,460.44,4,0.0,92.46,West,CUST1285
+ORD10942,2024-08-29,Product 2,Office Supplies,Binders,432.9,3,0.0,125.18,West,CUST1755
+ORD10943,2024-10-25,Product 29,Office Supplies,Pens,712.61,3,0.0,238.84,West,CUST1867
+ORD10944,2023-05-17,Product 4,Technology,Computers,462.43,1,0.0,79.75,East,CUST1257
+ORD10945,2023-08-31,Product 17,Office Supplies,Paper,37.8,1,0.0,5.83,West,CUST1569
+ORD10946,2024-06-26,Product 3,Technology,Computers,356.17,1,0.0,65.35,Central,CUST1547
+ORD10947,2023-02-09,Product 13,Furniture,Bookcases,673.24,4,0.0,168.8,South,CUST1839
+ORD10948,2023-08-17,Product 9,Office Supplies,Pens,217.4,4,0.05,45.06,West,CUST1940
+ORD10949,2024-07-01,Product 7,Furniture,Bookcases,255.84,3,0.1,45.32,East,CUST1489
+ORD10950,2023-08-11,Product 15,Office Supplies,Binders,329.38,1,0.0,42.56,Central,CUST1497
+ORD10951,2023-01-06,Product 23,Furniture,Chairs,475.59,4,0.05,30.09,Central,CUST1904
+ORD10952,2023-11-18,Product 29,Technology,Phones,510.24,2,0.1,74.37,South,CUST1893
+ORD10953,2024-04-12,Product 29,Furniture,Tables,814.98,2,0.05,250.43,Central,CUST1704
+ORD10954,2023-03-16,Product 11,Office Supplies,Pens,315.75,3,0.15,76.1,Central,CUST1332
+ORD10955,2023-01-04,Product 20,Office Supplies,Binders,62.22,4,0.0,12.85,Central,CUST1561
+ORD10956,2024-10-07,Product 2,Office Supplies,Pens,418.19,3,0.0,113.37,Central,CUST1974
+ORD10957,2023-04-28,Product 15,Office Supplies,Binders,744.43,3,0.0,96.66,East,CUST1031
+ORD10958,2024-08-28,Product 14,Office Supplies,Paper,585.25,4,0.0,131.08,South,CUST1609
+ORD10959,2024-05-18,Product 20,Office Supplies,Paper,228.46,7,0.05,20.69,West,CUST1042
+ORD10960,2024-07-27,Product 22,Office Supplies,Paper,664.37,3,0.0,162.25,Central,CUST1892
+ORD10961,2024-03-16,Product 11,Office Supplies,Pens,463.03,1,0.0,110.28,East,CUST1350
+ORD10962,2023-07-13,Product 27,Furniture,Bookcases,430.61,4,0.0,103.27,South,CUST1333
+ORD10963,2024-12-15,Product 3,Office Supplies,Binders,468.1,1,0.0,141.24,West,CUST1821
+ORD10964,2024-01-27,Product 17,Office Supplies,Binders,453.35,2,0.05,123.36,South,CUST1558
+ORD10965,2023-01-26,Product 30,Office Supplies,Paper,421.76,1,0.05,56.1,East,CUST1269
+ORD10966,2024-03-10,Product 12,Office Supplies,Pens,380.52,6,0.0,115.22,East,CUST1943
+ORD10967,2023-06-22,Product 24,Furniture,Tables,178.55,1,0.0,36.66,East,CUST1822
+ORD10968,2023-10-27,Product 28,Office Supplies,Pens,423.34,8,0.0,34.75,Central,CUST1412
+ORD10969,2024-10-06,Product 29,Technology,Computers,519.39,3,0.0,110.31,East,CUST1942
+ORD10970,2023-11-22,Product 21,Furniture,Chairs,486.83,5,0.15,126.16,West,CUST1574
+ORD10971,2024-02-14,Product 15,Furniture,Chairs,518.65,5,0.0,77.29,Central,CUST1018
+ORD10972,2023-04-28,Product 16,Technology,Computers,177.59,2,0.1,53.64,South,CUST1346
+ORD10973,2024-12-24,Product 5,Furniture,Bookcases,34.08,3,0.15,2.29,West,CUST1904
+ORD10974,2023-08-13,Product 27,Furniture,Bookcases,239.87,2,0.0,44.69,Central,CUST1612
+ORD10975,2024-06-15,Product 20,Technology,Computers,560.6,3,0.0,97.25,East,CUST1036
+ORD10976,2023-04-23,Product 6,Technology,Phones,83.51,1,0.2,4.38,South,CUST1618
+ORD10977,2023-05-20,Product 19,Technology,Accessories,383.06,4,0.1,55.64,East,CUST1091
+ORD10978,2024-07-12,Product 25,Technology,Phones,505.31,3,0.0,85.99,West,CUST1819
+ORD10979,2023-01-01,Product 5,Technology,Accessories,156.18,3,0.1,30.94,West,CUST1184
+ORD10980,2023-03-31,Product 3,Office Supplies,Pens,393.97,4,0.1,1.9,Central,CUST1727
+ORD10981,2024-10-15,Product 27,Office Supplies,Binders,505.29,1,0.0,136.51,West,CUST1027
+ORD10982,2023-11-16,Product 1,Office Supplies,Paper,368.68,3,0.15,96.35,South,CUST1547
+ORD10983,2024-07-03,Product 26,Office Supplies,Paper,485.37,1,0.0,146.92,Central,CUST1371
+ORD10984,2023-05-19,Product 28,Office Supplies,Pens,107.5,1,0.05,11.43,South,CUST1831
+ORD10985,2024-05-25,Product 6,Office Supplies,Paper,228.37,5,0.2,41.56,East,CUST1529
+ORD10986,2023-09-16,Product 15,Technology,Computers,65.28,2,0.1,16.66,South,CUST1344
+ORD10987,2024-11-03,Product 2,Office Supplies,Paper,341.22,3,0.0,99.61,South,CUST1418
+ORD10988,2024-11-20,Product 29,Furniture,Chairs,224.95,1,0.0,72.78,West,CUST1195
+ORD10989,2023-01-10,Product 3,Office Supplies,Pens,185.42,1,0.05,41.13,East,CUST1077
+ORD10990,2023-09-18,Product 17,Office Supplies,Binders,409.86,5,0.1,86.56,West,CUST1166
+ORD10991,2024-10-11,Product 25,Technology,Phones,364.77,1,0.05,39.47,East,CUST1089
+ORD10992,2023-06-21,Product 24,Technology,Accessories,484.97,3,0.2,138.84,East,CUST1263
+ORD10993,2023-01-13,Product 12,Office Supplies,Paper,816.13,2,0.15,150.25,South,CUST1471
+ORD10994,2023-06-17,Product 18,Furniture,Chairs,256.48,3,0.0,57.03,West,CUST1207
+ORD10995,2024-10-03,Product 15,Furniture,Chairs,498.66,3,0.0,108.56,South,CUST1723
+ORD10996,2024-08-18,Product 12,Office Supplies,Paper,247.39,3,0.0,12.96,South,CUST1270
+ORD10997,2023-11-17,Product 16,Office Supplies,Binders,389.29,3,0.05,62.53,South,CUST1262
+ORD10998,2023-11-15,Product 27,Furniture,Tables,321.25,3,0.05,79.88,East,CUST1505
+ORD10999,2024-09-04,Product 8,Technology,Phones,520.44,2,0.05,111.73,West,CUST1784
